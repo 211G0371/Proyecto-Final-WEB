@@ -1,0 +1,51 @@
+﻿@model ProyectoFinal.Areas.Admin.Models.ViewModels.AgregarViewModel
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>AgregarJugador</title>
+	<link rel="stylesheet" href="~/estilos/estiloadm.css">
+</head>
+<body>
+	<header>
+		<img class="LogoEquipo" src="~/Imagenes/logo.png" alt="Logo Equipo">
+		<a>Administrador</a>
+	</header>
+	<main>
+		<div class="ContenedorFormulario">
+			<form method="post" action="~/Admin/Home/AgregarEstadisticas" class="FormularioJugador">
+
+
+
+				<input  type="hidden" asp-for="@Model.Jugadores.Id" />
+
+				<label for="Headshot">Headshot:</label>
+				<input type="text" asp-for="@Model.Estadisticas.Headshot">
+
+				<label for="Winrate">Winrate:</label>
+				<input type="text" asp-for="@Model.Estadisticas.Winrate">
+
+				<label for="Wins">Wins:</label>
+				<input type="text" asp-for="@Model.Estadisticas.Wins">
+
+				<label for="Lose">Lose:</label>
+				<input type="text" asp-for="@Model.Estadisticas.Lose">
+
+				<label for="K/D Ratio">K/D Ratio:</label>
+				<input type="text" asp-for="@Model.Estadisticas.KDRatio">
+
+				<label for="Earnings">Earnings:</label>
+				<input type="text" asp-for="@Model.Estadisticas.Earnings">
+
+				<button type="submit">Guardar</button>
+				<div class="errores"></div>
+				@Html.ValidationSummary()
+
+			</form>
+		</div>
+
+	</main>
+</body>
+</html>

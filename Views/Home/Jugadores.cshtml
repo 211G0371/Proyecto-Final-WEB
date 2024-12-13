@@ -1,0 +1,45 @@
+﻿@model ProyectoFinal.Models.ViewModels.JugadoresViewModel
+@{
+    ViewData["Title"] = "Jugadores";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jugadores</title>
+    <link rel="stylesheet" href="~/estilos/estilosjugadores.css">
+</head>
+<body>
+    <header>
+        <div class="linksizq">
+            <a href="~/Home/Index">Inicio</a>
+            <a href="~/Home/Jugadores" class="selected">Jugadores</a>
+        </div>
+        <img class="LogoEquipo" src="~/Imagenes/logo.png" alt="Logo Equipo">
+        <div class="social-media">
+            <a href="https://x.com/olimposquad" target="_blank">
+                <img src="~/LogosRedesSociales/LogoTwitter.png" alt="Twitter">
+            </a>
+            <a href="https://instagram.com/olimposquad" target="_blank">
+                <img src="~/LogosRedesSociales/LogoInstagram.png" alt="Instagram">
+            </a>
+            <a href="https://www.youtube.com/olimposquad" target="_blank">
+                <img src="~/LogosRedesSociales/LogoYoutube.png" alt="YouTube">
+            </a>
+        </div>
+    </header>
+    <main>
+        <div class="ContenedorJugador">
+            @foreach (var item in Model.ListaJugadores)
+            {
+                <a href="~/Home/VerJugador/@item.Id">
+                    <img class="imagenJugador" src="~/Imagenes/Jugadores/@(item.Id).png">
+                </a>
+            }
+        </div>
+    </main>
+</body>
+</html>
+

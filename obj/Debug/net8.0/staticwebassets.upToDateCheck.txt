@@ -1,0 +1,30 @@
+wwwroot\estilos\estiloadm.css
+wwwroot\estilos\estiloeliminarjugador.css
+wwwroot\estilos\estilojugador.css
+wwwroot\estilos\estilos.css
+wwwroot\estilos\estilosjugadores.css
+wwwroot\estilos\estilosverjugador.css
+wwwroot\estilos\font\Borutta - Aneba Medium.otf
+wwwroot\estilos\indexadm.css
+wwwroot\Imagenes\backgroundheader.png
+wwwroot\Imagenes\icon-calavera.png
+wwwroot\Imagenes\ImagenesSlider\aaasd.png
+wwwroot\Imagenes\ImagenesSlider\asdasd.png
+wwwroot\Imagenes\ImagenesSlider\Campeones.png
+wwwroot\Imagenes\ImagenesSlider\Finalpresencial.png
+wwwroot\Imagenes\ImagenesSlider\lucastop3.png
+wwwroot\Imagenes\ImagenesSlider\Marcos aqui!.png
+wwwroot\Imagenes\ImagenesSlider\marcos em el equipo.png
+wwwroot\Imagenes\ImagenesSlider\miamor.png
+wwwroot\Imagenes\ImagenesSlider\Wearehere.png
+wwwroot\Imagenes\ImagenesSlider\xdxd.png
+wwwroot\Imagenes\ImagenesSlider\xdxdxd.png
+wwwroot\Imagenes\Jugadores\3.png
+wwwroot\Imagenes\Jugadores\4.png
+wwwroot\Imagenes\Jugadores\5.png
+wwwroot\Imagenes\Jugadores\6.png
+wwwroot\Imagenes\Jugadores\jugadores.png
+wwwroot\Imagenes\logo.png
+wwwroot\LogosRedesSociales\LogoInstagram.png
+wwwroot\LogosRedesSociales\LogoTwitter.png
+wwwroot\LogosRedesSociales\LogoYoutube.png

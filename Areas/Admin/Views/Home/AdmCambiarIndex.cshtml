@@ -1,0 +1,167 @@
+﻿@model IEnumerable<ProyectoFinal.Models.Entities.Sliders>
+@{
+	ViewData["Title"] = "AdmCambiarIndex";
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>IndexAdm</title>
+	<style>
+		html, body {
+			height: 100%;
+			width: 100%;
+			margin: 0;
+			padding: 0;
+			background-color: white;
+			font-family: "AnebaMedium", sans-serif;
+			overflow-x: hidden;
+			border-color: 2px solid #d5a940;
+		}
+
+		font-face {
+			font-family: "AnebaMedium";
+			src: url("estilos/font/Borutta - Aneba Medium.otf") format("opentype");
+		}
+
+		header {
+			display: flex;
+			justify-content: space-between;
+			align-items: center;
+			height: 15%;
+			width: 100%;
+			background-color: black;
+			padding: 0 10px;
+			box-sizing: border-box;
+			position: relative;
+			z-index: 1;
+			border-bottom: 5px solid #d5a940;
+		}
+
+
+		.LogoEquipo {
+			margin-top: 5%;
+			width: 10%;
+			height: auto;
+		}
+
+		header a {
+			font-size: 60px;
+			color: white;
+		}
+
+
+		main {
+			padding: 20px;
+			display: flex;
+			flex-direction: column;
+			align-items: center;
+		}
+
+
+		.AgregarNuevoJugador {
+			margin-bottom: 20px;
+		}
+
+			.AgregarNuevoJugador a {
+				text-decoration: none;
+				background-color: #d5a940;
+				color: white;
+				padding: 10px 20px;
+				border-radius: 5px;
+				font-size: 1.2em;
+				transition: background-color 0.3s ease;
+			}
+
+				.AgregarNuevoJugador a:hover {
+					background-color: #00509e;
+				}
+
+
+		.ContenidoIndex {
+			width: 100%;
+			max-width: 800px;
+			display: flex;
+			flex-wrap: wrap;
+		}
+
+		.ListaImagenes {
+			display: grid;
+			grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+			gap: 20px;
+		}
+
+		.Imagen {
+			background-color: white;
+			box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+			border-radius: 10px;
+			overflow: hidden;
+			text-align: center;
+			padding: 10px;
+		}
+
+			.Imagen img {
+				width: 25%;
+				height: auto;
+				border-bottom: 2px solid #f4f4f9;
+				margin-bottom: 10px;
+			}
+
+		.Botones {
+			display: flex;
+			justify-content: center;
+			gap: 10px;
+		}
+
+		.Boton a {
+			text-decoration: none;
+			color: white;
+			background-color: #00509e;
+			padding: 8px 15px;
+			border-radius: 5px;
+			font-size: 1em;
+			transition: background-color 0.3s ease;
+		}
+
+		.Boton .BotonEliminar {
+			background-color: #d9534f;
+		}
+
+			.Boton .BotonEliminar:hover {
+				background-color: #c9302c;
+			}
+
+	</style>
+</head>
+<body>
+	<header>
+		<img class="LogoEquipo" src="~/Imagenes/logo.png" alt="Logo Equipo">
+		<a>Administrador</a>
+	</header>
+	<main>
+
+		<div class="AgregarNuevoJugador">
+			<a href="~/Admin/Home/AgregarImagenIndex">Agregar Imagen</a>
+		</div>
+
+
+
+		<div class="ContenidoIndex">
+
+				@foreach (var item in Model)
+				{
+					<section class="ListaImagenes">
+						<div class="Imagen">
+							<img src="/Imagenes/ImagenesSlider/@(item.NombreDelSlider).png    ">
+							<div class="Boton">
+							<a href="@Url.Action("EliminarImagen", "Home", new { id = item.Id })" class="BotonEliminar">Eliminar</a>
+							</div>
+						</div>
+					</section>
+				}
+
+		</div>
+	</main>
+</body>
+</html>

@@ -1,0 +1,83 @@
+﻿@model ProyectoFinal.Models.ViewModels.VerJugadorViewModel
+@{
+    ViewData["Title"] = "VerJugador";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title></title>
+    <link rel="stylesheet" href="~/estilos/estilosverjugador.css">
+</head>
+<body>
+    <header>
+        <div class="linksizq">
+            <a href="~/Home/Index">Inicio</a>
+            <a href="~/Home/Jugadores" class="selected">Jugadores</a>
+        </div>
+        <img class="LogoEquipo" src="~/Imagenes/logo.png" alt="Logo Equipo">
+        <div class="social-media">
+            <a href="https://x.com/olimposquad" target="_blank">
+                <img src="~/LogosRedesSociales/LogoTwitter.png" alt="Twitter">
+            </a>
+            <a href="https://instagram.com/olimposquad" target="_blank">
+                <img src="~/LogosRedesSociales/LogoInstagram.png" alt="Instagram">
+            </a>
+            <a href="https://www.youtube.com/olimposquad" target="_blank">
+                <img src="~/LogosRedesSociales/LogoYoutube.png" alt="YouTube">
+            </a>
+        </div>
+    </header>
+    <main>
+        <div class="imagenjugador">
+            <img src="~/Imagenes/Jugadores/@(Model.Id).png">
+        </div>
+
+
+        <div class="contenedor-tabla">
+            <h2 class="titulo-jugador">Estadísticas de @Model.Nombre  (@Model.Gamertag)</h2>
+            <table class="tabla-estadisticas">
+                <thead>
+                    <tr>
+                        <th>Estadísticas</th>
+                        <th>Valor</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>Rol</td>
+                        <td>@Model.Rol</td>
+                    </tr>
+                    <tr>
+                        <td>País</td>
+                        <td>@Model.Pais</td>
+                    </tr>
+                    <tr>
+                        <td>Earnings</td>
+                        <td><span class="earnings">$@Model.Earnings</span></td>
+                    </tr>
+                    <tr>
+                        <td>K/A</td>
+                        <td> @Model.KDRatio</td>
+                    </tr>
+                    <tr>
+                        <td>Wins</td>
+                        <td>@Model.Wins</td>
+                    </tr>
+                    <tr>
+                        <td>Lose</td>
+                        <td>@Model.Lose</td>
+                    </tr>
+                    <tr>
+                        <td>Win-rate</td>
+                        <td>@Model.Winrate %</td>
+                    </tr>
+
+                </tbody>
+            </table>
+        </div>
+    </main>
+</body>
+</html>

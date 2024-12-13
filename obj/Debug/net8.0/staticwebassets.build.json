@@ -1,0 +1,3112 @@
+{
+  "Version": 1,
+  "Hash": "Krnz3BDLN12e2zr1RIE5yge9Ht+PPbd2BRIPaTHBzNk=",
+  "Source": "ProyectoFinal",
+  "BasePath": "_content/ProyectoFinal",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ProyectoFinal\\wwwroot",
+      "Source": "ProyectoFinal",
+      "ContentRoot": "E:\\proyectopadillafinal\\finalfinal\\ProyectoFinal\\wwwroot\\",
+      "BasePath": "_content/ProyectoFinal",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "E:\\proyectopadillafinal\\finalfinal\\ProyectoFinal\\wwwroot\\estilos\\estiloadm.css",
+      "SourceId": "ProyectoFinal",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\proyectopadillafinal\\finalfinal\\ProyectoFinal\\wwwroot\\",
+      "BasePath": "_content/ProyectoFinal",
+      "RelativePath": "estilos/estiloadm#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "eet7hkz7p8",
+      "Integrity": "av71QE7EWw61tGxn23XmvCelHIfXhc0h4YS35yEMggE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\estilos\\estiloadm.css"
+    },
+    {
+      "Identity": "E:\\proyectopadillafinal\\finalfinal\\ProyectoFinal\\wwwroot\\estilos\\estiloeliminarjugador.css",
+      "SourceId": "ProyectoFinal",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\proyectopadillafinal\\finalfinal\\ProyectoFinal\\wwwroot\\",
+      "BasePath": "_content/ProyectoFinal",
+      "RelativePath": "estilos/estiloeliminarjugador#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "r8yrdddwxk",
+      "Integrity": "GzfYhBahqzBluQgFYU0zU9biwx1h7UASWTLgcI3qkPg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\estilos\\estiloeliminarjugador.css"
+    },
+    {
+      "Identity": "E:\\proyectopadillafinal\\finalfinal\\ProyectoFinal\\wwwroot\\estilos\\estilojugador.css",
+      "SourceId": "ProyectoFinal",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\proyectopadillafinal\\finalfinal\\ProyectoFinal\\wwwroot\\",
+      "BasePath": "_content/ProyectoFinal",
+      "RelativePath": "estilos/estilojugador#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zdsh6oa083",
+      "Integrity": "CZDPznVSGofDwbrOHx89/6MC6DZLVt5uPeFGB0VdgTI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\estilos\\estilojugador.css"
+    },
+    {
+      "Identity": "E:\\proyectopadillafinal\\finalfinal\\ProyectoFinal\\wwwroot\\estilos\\estilos.css",
+      "SourceId": "ProyectoFinal",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\proyectopadillafinal\\finalfinal\\ProyectoFinal\\wwwroot\\",
+      "BasePath": "_content/ProyectoFinal",
+      "RelativePath": "estilos/estilos#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "st609ane6l",
+      "Integrity": "cNzS+6OOycXin7ex2FZXdpZJQPHzpzfSqvwpaJUAV/Y=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\estilos\\estilos.css"
+    },
+    {
+      "Identity": "E:\\proyectopadillafinal\\finalfinal\\ProyectoFinal\\wwwroot\\estilos\\estilosjugadores.css",
+      "SourceId": "ProyectoFinal",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\proyectopadillafinal\\finalfinal\\ProyectoFinal\\wwwroot\\",
+      "BasePath": "_content/ProyectoFinal",
+      "RelativePath": "estilos/estilosjugadores#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pwi88ueg6e",
+      "Integrity": "uTGHckSp3CIv98lJB5mDy96ovVzJ1/KcLJxpccWX0Pg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\estilos\\estilosjugadores.css"
+    },
+    {
+      "Identity": "E:\\proyectopadillafinal\\finalfinal\\ProyectoFinal\\wwwroot\\estilos\\estilosverjugador.css",
+      "SourceId": "ProyectoFinal",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\proyectopadillafinal\\finalfinal\\ProyectoFinal\\wwwroot\\",
+      "BasePath": "_content/ProyectoFinal",
+      "RelativePath": "estilos/estilosverjugador#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "1z356bgjgo",
+      "Integrity": "o8rNDngnff2d0fOyHTNTAdgNZHR9Fd+O+zbNTf/8lFE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\estilos\\estilosverjugador.css"
+    },
+    {
+      "Identity": "E:\\proyectopadillafinal\\finalfinal\\ProyectoFinal\\wwwroot\\estilos\\font\\Borutta - Aneba Medium.otf",
+      "SourceId": "ProyectoFinal",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\proyectopadillafinal\\finalfinal\\ProyectoFinal\\wwwroot\\",
+      "BasePath": "_content/ProyectoFinal",
+      "RelativePath": "estilos/font/Borutta - Aneba Medium#[.{fingerprint}]?.otf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4y6r3vt42y",
+      "Integrity": "7OrxZfXekF5i0LZp4S9gCf4EDdlenfmevCil7Y8R+0w=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\estilos\\font\\Borutta - Aneba Medium.otf"
+    },
+    {
+      "Identity": "E:\\proyectopadillafinal\\finalfinal\\ProyectoFinal\\wwwroot\\estilos\\indexadm.css",
+      "SourceId": "ProyectoFinal",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\proyectopadillafinal\\finalfinal\\ProyectoFinal\\wwwroot\\",
+      "BasePath": "_content/ProyectoFinal",
+      "RelativePath": "estilos/indexadm#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "51t9eskdwe",
+      "Integrity": "x8bpEESLTbqwcD4CIQOCnu4IbNNP1IrG3bk6zvN8aWE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\estilos\\indexadm.css"
+    },
+    {
+      "Identity": "E:\\proyectopadillafinal\\finalfinal\\ProyectoFinal\\wwwroot\\Imagenes\\backgroundheader.png",
+      "SourceId": "ProyectoFinal",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\proyectopadillafinal\\finalfinal\\ProyectoFinal\\wwwroot\\",
+      "BasePath": "_content/ProyectoFinal",
+      "RelativePath": "Imagenes/backgroundheader#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8gu8is8se5",
+      "Integrity": "KA6n+mWglzo8Ajvq/wezcL9+2bbUNtFpFYgrUvcdnRw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Imagenes\\backgroundheader.png"
+    },
+    {
+      "Identity": "E:\\proyectopadillafinal\\finalfinal\\ProyectoFinal\\wwwroot\\Imagenes\\icon-calavera.png",
+      "SourceId": "ProyectoFinal",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\proyectopadillafinal\\finalfinal\\ProyectoFinal\\wwwroot\\",
+      "BasePath": "_content/ProyectoFinal",
+      "RelativePath": "Imagenes/icon-calavera#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "gx4svh0cnh",
+      "Integrity": "9GrZlDtUJcxaI7TS8Jw15NYNZrWppmqlU13okAMo34c=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Imagenes\\icon-calavera.png"
+    },
+    {
+      "Identity": "E:\\proyectopadillafinal\\finalfinal\\ProyectoFinal\\wwwroot\\Imagenes\\ImagenesSlider\\aaasd.png",
+      "SourceId": "ProyectoFinal",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\proyectopadillafinal\\finalfinal\\ProyectoFinal\\wwwroot\\",
+      "BasePath": "_content/ProyectoFinal",
+      "RelativePath": "Imagenes/ImagenesSlider/aaasd#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "61oed5wrww",
+      "Integrity": "1m2g3vsIHpqtNnccKzkQyv3nZOAxfyx/Xq8RMT3iuLw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Imagenes\\ImagenesSlider\\aaasd.png"
+    },
+    {
+      "Identity": "E:\\proyectopadillafinal\\finalfinal\\ProyectoFinal\\wwwroot\\Imagenes\\ImagenesSlider\\asdasd.png",
+      "SourceId": "ProyectoFinal",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\proyectopadillafinal\\finalfinal\\ProyectoFinal\\wwwroot\\",
+      "BasePath": "_content/ProyectoFinal",
+      "RelativePath": "Imagenes/ImagenesSlider/asdasd#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "os4rxzvui9",
+      "Integrity": "CO753bd4JzQ8uWMdzpT+7Y9htNJ9QwgoNQ58fwoYIdE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Imagenes\\ImagenesSlider\\asdasd.png"
+    },
+    {
+      "Identity": "E:\\proyectopadillafinal\\finalfinal\\ProyectoFinal\\wwwroot\\Imagenes\\ImagenesSlider\\Campeones.png",
+      "SourceId": "ProyectoFinal",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\proyectopadillafinal\\finalfinal\\ProyectoFinal\\wwwroot\\",
+      "BasePath": "_content/ProyectoFinal",
+      "RelativePath": "Imagenes/ImagenesSlider/Campeones#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "imunvzwgvu",
+      "Integrity": "Nhpz9TmendzN9cRtoT0jd5CsOLeGjNW/ByxZYxGp3lU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Imagenes\\ImagenesSlider\\Campeones.png"
+    },
+    {
+      "Identity": "E:\\proyectopadillafinal\\finalfinal\\ProyectoFinal\\wwwroot\\Imagenes\\ImagenesSlider\\Finalpresencial.png",
+      "SourceId": "ProyectoFinal",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\proyectopadillafinal\\finalfinal\\ProyectoFinal\\wwwroot\\",
+      "BasePath": "_content/ProyectoFinal",
+      "RelativePath": "Imagenes/ImagenesSlider/Finalpresencial#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "cu5xxdvpki",
+      "Integrity": "LB/tk/Ujtm3Dsn91x5uro2lr+gdg1Z1oLEzwtfRuZx0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Imagenes\\ImagenesSlider\\Finalpresencial.png"
+    },
+    {
+      "Identity": "E:\\proyectopadillafinal\\finalfinal\\ProyectoFinal\\wwwroot\\Imagenes\\ImagenesSlider\\lucastop3.png",
+      "SourceId": "ProyectoFinal",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\proyectopadillafinal\\finalfinal\\ProyectoFinal\\wwwroot\\",
+      "BasePath": "_content/ProyectoFinal",
+      "RelativePath": "Imagenes/ImagenesSlider/lucastop3#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "t0fxurz89a",
+      "Integrity": "s9v1OXF5YSWzJtp4bEM5LCTDSxS9/MCYRL/4g2CaNp4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Imagenes\\ImagenesSlider\\lucastop3.png"
+    },
+    {
+      "Identity": "E:\\proyectopadillafinal\\finalfinal\\ProyectoFinal\\wwwroot\\Imagenes\\ImagenesSlider\\Marcos aqui!.png",
+      "SourceId": "ProyectoFinal",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\proyectopadillafinal\\finalfinal\\ProyectoFinal\\wwwroot\\",
+      "BasePath": "_content/ProyectoFinal",
+      "RelativePath": "Imagenes/ImagenesSlider/Marcos aqui!#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "9juroak5o2",
+      "Integrity": "VdPpdCms0kFh6SqiJRERYrnGyW5gojVL5gswsCe9VJ8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Imagenes\\ImagenesSlider\\Marcos aqui!.png"
+    },
+    {
+      "Identity": "E:\\proyectopadillafinal\\finalfinal\\ProyectoFinal\\wwwroot\\Imagenes\\ImagenesSlider\\marcos em el equipo.png",
+      "SourceId": "ProyectoFinal",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\proyectopadillafinal\\finalfinal\\ProyectoFinal\\wwwroot\\",
+      "BasePath": "_content/ProyectoFinal",
+      "RelativePath": "Imagenes/ImagenesSlider/marcos em el equipo#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "9juroak5o2",
+      "Integrity": "VdPpdCms0kFh6SqiJRERYrnGyW5gojVL5gswsCe9VJ8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Imagenes\\ImagenesSlider\\marcos em el equipo.png"
+    },
+    {
+      "Identity": "E:\\proyectopadillafinal\\finalfinal\\ProyectoFinal\\wwwroot\\Imagenes\\ImagenesSlider\\miamor.png",
+      "SourceId": "ProyectoFinal",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\proyectopadillafinal\\finalfinal\\ProyectoFinal\\wwwroot\\",
+      "BasePath": "_content/ProyectoFinal",
+      "RelativePath": "Imagenes/ImagenesSlider/miamor#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5o8bbcqqo4",
+      "Integrity": "W0RMdcaGwDDpDSr+hJdQZOEjNlspUMD4Qjf08q3KkQc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Imagenes\\ImagenesSlider\\miamor.png"
+    },
+    {
+      "Identity": "E:\\proyectopadillafinal\\finalfinal\\ProyectoFinal\\wwwroot\\Imagenes\\ImagenesSlider\\Wearehere.png",
+      "SourceId": "ProyectoFinal",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\proyectopadillafinal\\finalfinal\\ProyectoFinal\\wwwroot\\",
+      "BasePath": "_content/ProyectoFinal",
+      "RelativePath": "Imagenes/ImagenesSlider/Wearehere#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "7ird3gp942",
+      "Integrity": "f7/lqF1mci0q+6Z1Bb6Jgm/IlX93Ssw3VILnjJpHwYs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Imagenes\\ImagenesSlider\\Wearehere.png"
+    },
+    {
+      "Identity": "E:\\proyectopadillafinal\\finalfinal\\ProyectoFinal\\wwwroot\\Imagenes\\ImagenesSlider\\xdxd.png",
+      "SourceId": "ProyectoFinal",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\proyectopadillafinal\\finalfinal\\ProyectoFinal\\wwwroot\\",
+      "BasePath": "_content/ProyectoFinal",
+      "RelativePath": "Imagenes/ImagenesSlider/xdxd#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "9juroak5o2",
+      "Integrity": "VdPpdCms0kFh6SqiJRERYrnGyW5gojVL5gswsCe9VJ8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Imagenes\\ImagenesSlider\\xdxd.png"
+    },
+    {
+      "Identity": "E:\\proyectopadillafinal\\finalfinal\\ProyectoFinal\\wwwroot\\Imagenes\\ImagenesSlider\\xdxdxd.png",
+      "SourceId": "ProyectoFinal",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\proyectopadillafinal\\finalfinal\\ProyectoFinal\\wwwroot\\",
+      "BasePath": "_content/ProyectoFinal",
+      "RelativePath": "Imagenes/ImagenesSlider/xdxdxd#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wncw62e0ug",
+      "Integrity": "5AlZiRI81pKgT+ZBVDcXa+IcJitbojHFXfmlzyObGQs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Imagenes\\ImagenesSlider\\xdxdxd.png"
+    },
+    {
+      "Identity": "E:\\proyectopadillafinal\\finalfinal\\ProyectoFinal\\wwwroot\\Imagenes\\Jugadores\\3.png",
+      "SourceId": "ProyectoFinal",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\proyectopadillafinal\\finalfinal\\ProyectoFinal\\wwwroot\\",
+      "BasePath": "_content/ProyectoFinal",
+      "RelativePath": "Imagenes/Jugadores/3#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "bvb52nlyea",
+      "Integrity": "qWZd2eZ5HvbAXQ8EXPDIITKiCPwusPlZLcWQNgWOIfE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Imagenes\\Jugadores\\3.png"
+    },
+    {
+      "Identity": "E:\\proyectopadillafinal\\finalfinal\\ProyectoFinal\\wwwroot\\Imagenes\\Jugadores\\4.png",
+      "SourceId": "ProyectoFinal",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\proyectopadillafinal\\finalfinal\\ProyectoFinal\\wwwroot\\",
+      "BasePath": "_content/ProyectoFinal",
+      "RelativePath": "Imagenes/Jugadores/4#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6fq2vbafbd",
+      "Integrity": "viITs9EisZyGdjuZSIayK2XJ9UZf3sk4s+jrlVyWgYw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Imagenes\\Jugadores\\4.png"
+    },
+    {
+      "Identity": "E:\\proyectopadillafinal\\finalfinal\\ProyectoFinal\\wwwroot\\Imagenes\\Jugadores\\5.png",
+      "SourceId": "ProyectoFinal",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\proyectopadillafinal\\finalfinal\\ProyectoFinal\\wwwroot\\",
+      "BasePath": "_content/ProyectoFinal",
+      "RelativePath": "Imagenes/Jugadores/5#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "21g6k5lz3g",
+      "Integrity": "WpEz0uPSwJqgwkWSnucNvAwqzP4TqxY84GZ2gpA9ouE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Imagenes\\Jugadores\\5.png"
+    },
+    {
+      "Identity": "E:\\proyectopadillafinal\\finalfinal\\ProyectoFinal\\wwwroot\\Imagenes\\Jugadores\\6.png",
+      "SourceId": "ProyectoFinal",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\proyectopadillafinal\\finalfinal\\ProyectoFinal\\wwwroot\\",
+      "BasePath": "_content/ProyectoFinal",
+      "RelativePath": "Imagenes/Jugadores/6#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wqntwlgbs9",
+      "Integrity": "eHEm0uTVAI51rBG35UE6/N2yvWsSWeAdsmQLuiutF78=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Imagenes\\Jugadores\\6.png"
+    },
+    {
+      "Identity": "E:\\proyectopadillafinal\\finalfinal\\ProyectoFinal\\wwwroot\\Imagenes\\Jugadores\\jugadores.png",
+      "SourceId": "ProyectoFinal",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\proyectopadillafinal\\finalfinal\\ProyectoFinal\\wwwroot\\",
+      "BasePath": "_content/ProyectoFinal",
+      "RelativePath": "Imagenes/Jugadores/jugadores#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "bciiials98",
+      "Integrity": "pcgmNlVVVL3da98JAA6YoqfwXPH2h4eXr9sEvLXX1ds=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Imagenes\\Jugadores\\jugadores.png"
+    },
+    {
+      "Identity": "E:\\proyectopadillafinal\\finalfinal\\ProyectoFinal\\wwwroot\\Imagenes\\logo.png",
+      "SourceId": "ProyectoFinal",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\proyectopadillafinal\\finalfinal\\ProyectoFinal\\wwwroot\\",
+      "BasePath": "_content/ProyectoFinal",
+      "RelativePath": "Imagenes/logo#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8tc6jwvm6m",
+      "Integrity": "pJYlgQXipsiwrMY0ceW5HK2EoXowZ350ZRmbVRMpxpo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Imagenes\\logo.png"
+    },
+    {
+      "Identity": "E:\\proyectopadillafinal\\finalfinal\\ProyectoFinal\\wwwroot\\LogosRedesSociales\\LogoInstagram.png",
+      "SourceId": "ProyectoFinal",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\proyectopadillafinal\\finalfinal\\ProyectoFinal\\wwwroot\\",
+      "BasePath": "_content/ProyectoFinal",
+      "RelativePath": "LogosRedesSociales/LogoInstagram#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "suc5z09x1t",
+      "Integrity": "rFxolUUOCRytU0N1RzhnbEBd82V5uR64uSVbBvYsreA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\LogosRedesSociales\\LogoInstagram.png"
+    },
+    {
+      "Identity": "E:\\proyectopadillafinal\\finalfinal\\ProyectoFinal\\wwwroot\\LogosRedesSociales\\LogoTwitter.png",
+      "SourceId": "ProyectoFinal",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\proyectopadillafinal\\finalfinal\\ProyectoFinal\\wwwroot\\",
+      "BasePath": "_content/ProyectoFinal",
+      "RelativePath": "LogosRedesSociales/LogoTwitter#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "b692qa15t5",
+      "Integrity": "86zN0yMWJcsgpKb+8zfGN91bwkaQLcn1cAfwDcs4XvE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\LogosRedesSociales\\LogoTwitter.png"
+    },
+    {
+      "Identity": "E:\\proyectopadillafinal\\finalfinal\\ProyectoFinal\\wwwroot\\LogosRedesSociales\\LogoYoutube.png",
+      "SourceId": "ProyectoFinal",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\proyectopadillafinal\\finalfinal\\ProyectoFinal\\wwwroot\\",
+      "BasePath": "_content/ProyectoFinal",
+      "RelativePath": "LogosRedesSociales/LogoYoutube#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "sjhcur5fob",
+      "Integrity": "2B3eDDK4/HQMcAOp8Nt317epcwOouO0Egk24UB2Pr44=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\LogosRedesSociales\\LogoYoutube.png"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "estilos/estiloadm.css",
+      "AssetFile": "E:\\proyectopadillafinal\\finalfinal\\ProyectoFinal\\wwwroot\\estilos\\estiloadm.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2168"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"av71QE7EWw61tGxn23XmvCelHIfXhc0h4YS35yEMggE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 06 Dec 2024 21:59:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-av71QE7EWw61tGxn23XmvCelHIfXhc0h4YS35yEMggE="
+        }
+      ]
+    },
+    {
+      "Route": "estilos/estiloadm.eet7hkz7p8.css",
+      "AssetFile": "E:\\proyectopadillafinal\\finalfinal\\ProyectoFinal\\wwwroot\\estilos\\estiloadm.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2168"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"av71QE7EWw61tGxn23XmvCelHIfXhc0h4YS35yEMggE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 06 Dec 2024 21:59:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "eet7hkz7p8"
+        },
+        {
+          "Name": "label",
+          "Value": "estilos/estiloadm.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-av71QE7EWw61tGxn23XmvCelHIfXhc0h4YS35yEMggE="
+        }
+      ]
+    },
+    {
+      "Route": "estilos/estiloeliminarjugador.css",
+      "AssetFile": "E:\\proyectopadillafinal\\finalfinal\\ProyectoFinal\\wwwroot\\estilos\\estiloeliminarjugador.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1808"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GzfYhBahqzBluQgFYU0zU9biwx1h7UASWTLgcI3qkPg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 19:50:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-GzfYhBahqzBluQgFYU0zU9biwx1h7UASWTLgcI3qkPg="
+        }
+      ]
+    },
+    {
+      "Route": "estilos/estiloeliminarjugador.r8yrdddwxk.css",
+      "AssetFile": "E:\\proyectopadillafinal\\finalfinal\\ProyectoFinal\\wwwroot\\estilos\\estiloeliminarjugador.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1808"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GzfYhBahqzBluQgFYU0zU9biwx1h7UASWTLgcI3qkPg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 19:50:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "r8yrdddwxk"
+        },
+        {
+          "Name": "label",
+          "Value": "estilos/estiloeliminarjugador.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-GzfYhBahqzBluQgFYU0zU9biwx1h7UASWTLgcI3qkPg="
+        }
+      ]
+    },
+    {
+      "Route": "estilos/estilojugador.css",
+      "AssetFile": "E:\\proyectopadillafinal\\finalfinal\\ProyectoFinal\\wwwroot\\estilos\\estilojugador.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1648"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CZDPznVSGofDwbrOHx89/6MC6DZLVt5uPeFGB0VdgTI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 05 Dec 2024 22:10:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-CZDPznVSGofDwbrOHx89/6MC6DZLVt5uPeFGB0VdgTI="
+        }
+      ]
+    },
+    {
+      "Route": "estilos/estilojugador.zdsh6oa083.css",
+      "AssetFile": "E:\\proyectopadillafinal\\finalfinal\\ProyectoFinal\\wwwroot\\estilos\\estilojugador.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1648"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CZDPznVSGofDwbrOHx89/6MC6DZLVt5uPeFGB0VdgTI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 05 Dec 2024 22:10:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zdsh6oa083"
+        },
+        {
+          "Name": "label",
+          "Value": "estilos/estilojugador.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-CZDPznVSGofDwbrOHx89/6MC6DZLVt5uPeFGB0VdgTI="
+        }
+      ]
+    },
+    {
+      "Route": "estilos/estilos.css",
+      "AssetFile": "E:\\proyectopadillafinal\\finalfinal\\ProyectoFinal\\wwwroot\\estilos\\estilos.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2922"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cNzS+6OOycXin7ex2FZXdpZJQPHzpzfSqvwpaJUAV/Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 10 Dec 2024 05:52:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-cNzS+6OOycXin7ex2FZXdpZJQPHzpzfSqvwpaJUAV/Y="
+        }
+      ]
+    },
+    {
+      "Route": "estilos/estilos.st609ane6l.css",
+      "AssetFile": "E:\\proyectopadillafinal\\finalfinal\\ProyectoFinal\\wwwroot\\estilos\\estilos.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2922"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cNzS+6OOycXin7ex2FZXdpZJQPHzpzfSqvwpaJUAV/Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 10 Dec 2024 05:52:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "st609ane6l"
+        },
+        {
+          "Name": "label",
+          "Value": "estilos/estilos.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-cNzS+6OOycXin7ex2FZXdpZJQPHzpzfSqvwpaJUAV/Y="
+        }
+      ]
+    },
+    {
+      "Route": "estilos/estilosjugadores.css",
+      "AssetFile": "E:\\proyectopadillafinal\\finalfinal\\ProyectoFinal\\wwwroot\\estilos\\estilosjugadores.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2259"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uTGHckSp3CIv98lJB5mDy96ovVzJ1/KcLJxpccWX0Pg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 10 Dec 2024 05:52:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-uTGHckSp3CIv98lJB5mDy96ovVzJ1/KcLJxpccWX0Pg="
+        }
+      ]
+    },
+    {
+      "Route": "estilos/estilosjugadores.pwi88ueg6e.css",
+      "AssetFile": "E:\\proyectopadillafinal\\finalfinal\\ProyectoFinal\\wwwroot\\estilos\\estilosjugadores.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2259"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uTGHckSp3CIv98lJB5mDy96ovVzJ1/KcLJxpccWX0Pg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 10 Dec 2024 05:52:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pwi88ueg6e"
+        },
+        {
+          "Name": "label",
+          "Value": "estilos/estilosjugadores.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-uTGHckSp3CIv98lJB5mDy96ovVzJ1/KcLJxpccWX0Pg="
+        }
+      ]
+    },
+    {
+      "Route": "estilos/estilosverjugador.1z356bgjgo.css",
+      "AssetFile": "E:\\proyectopadillafinal\\finalfinal\\ProyectoFinal\\wwwroot\\estilos\\estilosverjugador.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2706"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"o8rNDngnff2d0fOyHTNTAdgNZHR9Fd+O+zbNTf/8lFE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Dec 2024 23:46:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1z356bgjgo"
+        },
+        {
+          "Name": "label",
+          "Value": "estilos/estilosverjugador.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-o8rNDngnff2d0fOyHTNTAdgNZHR9Fd+O+zbNTf/8lFE="
+        }
+      ]
+    },
+    {
+      "Route": "estilos/estilosverjugador.css",
+      "AssetFile": "E:\\proyectopadillafinal\\finalfinal\\ProyectoFinal\\wwwroot\\estilos\\estilosverjugador.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2706"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"o8rNDngnff2d0fOyHTNTAdgNZHR9Fd+O+zbNTf/8lFE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Dec 2024 23:46:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-o8rNDngnff2d0fOyHTNTAdgNZHR9Fd+O+zbNTf/8lFE="
+        }
+      ]
+    },
+    {
+      "Route": "estilos/font/Borutta - Aneba Medium.4y6r3vt42y.otf",
+      "AssetFile": "E:\\proyectopadillafinal\\finalfinal\\ProyectoFinal\\wwwroot\\estilos\\font\\Borutta - Aneba Medium.otf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "31556"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/otf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7OrxZfXekF5i0LZp4S9gCf4EDdlenfmevCil7Y8R+0w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 17 Feb 2013 11:34:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4y6r3vt42y"
+        },
+        {
+          "Name": "label",
+          "Value": "estilos/font/Borutta - Aneba Medium.otf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-7OrxZfXekF5i0LZp4S9gCf4EDdlenfmevCil7Y8R+0w="
+        }
+      ]
+    },
+    {
+      "Route": "estilos/font/Borutta - Aneba Medium.otf",
+      "AssetFile": "E:\\proyectopadillafinal\\finalfinal\\ProyectoFinal\\wwwroot\\estilos\\font\\Borutta - Aneba Medium.otf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "31556"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/otf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7OrxZfXekF5i0LZp4S9gCf4EDdlenfmevCil7Y8R+0w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 17 Feb 2013 11:34:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-7OrxZfXekF5i0LZp4S9gCf4EDdlenfmevCil7Y8R+0w="
+        }
+      ]
+    },
+    {
+      "Route": "estilos/indexadm.51t9eskdwe.css",
+      "AssetFile": "E:\\proyectopadillafinal\\finalfinal\\ProyectoFinal\\wwwroot\\estilos\\indexadm.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2399"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"x8bpEESLTbqwcD4CIQOCnu4IbNNP1IrG3bk6zvN8aWE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 06 Dec 2024 22:01:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "51t9eskdwe"
+        },
+        {
+          "Name": "label",
+          "Value": "estilos/indexadm.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-x8bpEESLTbqwcD4CIQOCnu4IbNNP1IrG3bk6zvN8aWE="
+        }
+      ]
+    },
+    {
+      "Route": "estilos/indexadm.css",
+      "AssetFile": "E:\\proyectopadillafinal\\finalfinal\\ProyectoFinal\\wwwroot\\estilos\\indexadm.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2399"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"x8bpEESLTbqwcD4CIQOCnu4IbNNP1IrG3bk6zvN8aWE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 06 Dec 2024 22:01:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-x8bpEESLTbqwcD4CIQOCnu4IbNNP1IrG3bk6zvN8aWE="
+        }
+      ]
+    },
+    {
+      "Route": "Imagenes/backgroundheader.8gu8is8se5.png",
+      "AssetFile": "E:\\proyectopadillafinal\\finalfinal\\ProyectoFinal\\wwwroot\\Imagenes\\backgroundheader.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1588183"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KA6n+mWglzo8Ajvq/wezcL9+2bbUNtFpFYgrUvcdnRw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 10 Dec 2024 05:48:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8gu8is8se5"
+        },
+        {
+          "Name": "label",
+          "Value": "Imagenes/backgroundheader.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-KA6n+mWglzo8Ajvq/wezcL9+2bbUNtFpFYgrUvcdnRw="
+        }
+      ]
+    },
+    {
+      "Route": "Imagenes/backgroundheader.png",
+      "AssetFile": "E:\\proyectopadillafinal\\finalfinal\\ProyectoFinal\\wwwroot\\Imagenes\\backgroundheader.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1588183"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KA6n+mWglzo8Ajvq/wezcL9+2bbUNtFpFYgrUvcdnRw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 10 Dec 2024 05:48:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-KA6n+mWglzo8Ajvq/wezcL9+2bbUNtFpFYgrUvcdnRw="
+        }
+      ]
+    },
+    {
+      "Route": "Imagenes/icon-calavera.gx4svh0cnh.png",
+      "AssetFile": "E:\\proyectopadillafinal\\finalfinal\\ProyectoFinal\\wwwroot\\Imagenes\\icon-calavera.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9876"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9GrZlDtUJcxaI7TS8Jw15NYNZrWppmqlU13okAMo34c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Dec 2024 20:23:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gx4svh0cnh"
+        },
+        {
+          "Name": "label",
+          "Value": "Imagenes/icon-calavera.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9GrZlDtUJcxaI7TS8Jw15NYNZrWppmqlU13okAMo34c="
+        }
+      ]
+    },
+    {
+      "Route": "Imagenes/icon-calavera.png",
+      "AssetFile": "E:\\proyectopadillafinal\\finalfinal\\ProyectoFinal\\wwwroot\\Imagenes\\icon-calavera.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9876"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9GrZlDtUJcxaI7TS8Jw15NYNZrWppmqlU13okAMo34c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Dec 2024 20:23:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9GrZlDtUJcxaI7TS8Jw15NYNZrWppmqlU13okAMo34c="
+        }
+      ]
+    },
+    {
+      "Route": "Imagenes/ImagenesSlider/aaasd.61oed5wrww.png",
+      "AssetFile": "E:\\proyectopadillafinal\\finalfinal\\ProyectoFinal\\wwwroot\\Imagenes\\ImagenesSlider\\aaasd.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "84519"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1m2g3vsIHpqtNnccKzkQyv3nZOAxfyx/Xq8RMT3iuLw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Dec 2024 03:28:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "61oed5wrww"
+        },
+        {
+          "Name": "label",
+          "Value": "Imagenes/ImagenesSlider/aaasd.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1m2g3vsIHpqtNnccKzkQyv3nZOAxfyx/Xq8RMT3iuLw="
+        }
+      ]
+    },
+    {
+      "Route": "Imagenes/ImagenesSlider/aaasd.png",
+      "AssetFile": "E:\\proyectopadillafinal\\finalfinal\\ProyectoFinal\\wwwroot\\Imagenes\\ImagenesSlider\\aaasd.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "84519"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1m2g3vsIHpqtNnccKzkQyv3nZOAxfyx/Xq8RMT3iuLw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Dec 2024 03:28:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1m2g3vsIHpqtNnccKzkQyv3nZOAxfyx/Xq8RMT3iuLw="
+        }
+      ]
+    },
+    {
+      "Route": "Imagenes/ImagenesSlider/asdasd.os4rxzvui9.png",
+      "AssetFile": "E:\\proyectopadillafinal\\finalfinal\\ProyectoFinal\\wwwroot\\Imagenes\\ImagenesSlider\\asdasd.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "810324"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CO753bd4JzQ8uWMdzpT+7Y9htNJ9QwgoNQ58fwoYIdE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Dec 2024 02:15:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "os4rxzvui9"
+        },
+        {
+          "Name": "label",
+          "Value": "Imagenes/ImagenesSlider/asdasd.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-CO753bd4JzQ8uWMdzpT+7Y9htNJ9QwgoNQ58fwoYIdE="
+        }
+      ]
+    },
+    {
+      "Route": "Imagenes/ImagenesSlider/asdasd.png",
+      "AssetFile": "E:\\proyectopadillafinal\\finalfinal\\ProyectoFinal\\wwwroot\\Imagenes\\ImagenesSlider\\asdasd.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "810324"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CO753bd4JzQ8uWMdzpT+7Y9htNJ9QwgoNQ58fwoYIdE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Dec 2024 02:15:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-CO753bd4JzQ8uWMdzpT+7Y9htNJ9QwgoNQ58fwoYIdE="
+        }
+      ]
+    },
+    {
+      "Route": "Imagenes/ImagenesSlider/Campeones.imunvzwgvu.png",
+      "AssetFile": "E:\\proyectopadillafinal\\finalfinal\\ProyectoFinal\\wwwroot\\Imagenes\\ImagenesSlider\\Campeones.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1193920"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Nhpz9TmendzN9cRtoT0jd5CsOLeGjNW/ByxZYxGp3lU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Dec 2024 20:33:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "imunvzwgvu"
+        },
+        {
+          "Name": "label",
+          "Value": "Imagenes/ImagenesSlider/Campeones.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Nhpz9TmendzN9cRtoT0jd5CsOLeGjNW/ByxZYxGp3lU="
+        }
+      ]
+    },
+    {
+      "Route": "Imagenes/ImagenesSlider/Campeones.png",
+      "AssetFile": "E:\\proyectopadillafinal\\finalfinal\\ProyectoFinal\\wwwroot\\Imagenes\\ImagenesSlider\\Campeones.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1193920"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Nhpz9TmendzN9cRtoT0jd5CsOLeGjNW/ByxZYxGp3lU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Dec 2024 20:33:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Nhpz9TmendzN9cRtoT0jd5CsOLeGjNW/ByxZYxGp3lU="
+        }
+      ]
+    },
+    {
+      "Route": "Imagenes/ImagenesSlider/Finalpresencial.cu5xxdvpki.png",
+      "AssetFile": "E:\\proyectopadillafinal\\finalfinal\\ProyectoFinal\\wwwroot\\Imagenes\\ImagenesSlider\\Finalpresencial.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1253886"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LB/tk/Ujtm3Dsn91x5uro2lr+gdg1Z1oLEzwtfRuZx0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Dec 2024 20:34:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "cu5xxdvpki"
+        },
+        {
+          "Name": "label",
+          "Value": "Imagenes/ImagenesSlider/Finalpresencial.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LB/tk/Ujtm3Dsn91x5uro2lr+gdg1Z1oLEzwtfRuZx0="
+        }
+      ]
+    },
+    {
+      "Route": "Imagenes/ImagenesSlider/Finalpresencial.png",
+      "AssetFile": "E:\\proyectopadillafinal\\finalfinal\\ProyectoFinal\\wwwroot\\Imagenes\\ImagenesSlider\\Finalpresencial.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1253886"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LB/tk/Ujtm3Dsn91x5uro2lr+gdg1Z1oLEzwtfRuZx0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Dec 2024 20:34:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LB/tk/Ujtm3Dsn91x5uro2lr+gdg1Z1oLEzwtfRuZx0="
+        }
+      ]
+    },
+    {
+      "Route": "Imagenes/ImagenesSlider/lucastop3.png",
+      "AssetFile": "E:\\proyectopadillafinal\\finalfinal\\ProyectoFinal\\wwwroot\\Imagenes\\ImagenesSlider\\lucastop3.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1288226"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"s9v1OXF5YSWzJtp4bEM5LCTDSxS9/MCYRL/4g2CaNp4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Dec 2024 20:34:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-s9v1OXF5YSWzJtp4bEM5LCTDSxS9/MCYRL/4g2CaNp4="
+        }
+      ]
+    },
+    {
+      "Route": "Imagenes/ImagenesSlider/lucastop3.t0fxurz89a.png",
+      "AssetFile": "E:\\proyectopadillafinal\\finalfinal\\ProyectoFinal\\wwwroot\\Imagenes\\ImagenesSlider\\lucastop3.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1288226"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"s9v1OXF5YSWzJtp4bEM5LCTDSxS9/MCYRL/4g2CaNp4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Dec 2024 20:34:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "t0fxurz89a"
+        },
+        {
+          "Name": "label",
+          "Value": "Imagenes/ImagenesSlider/lucastop3.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-s9v1OXF5YSWzJtp4bEM5LCTDSxS9/MCYRL/4g2CaNp4="
+        }
+      ]
+    },
+    {
+      "Route": "Imagenes/ImagenesSlider/Marcos aqui!.9juroak5o2.png",
+      "AssetFile": "E:\\proyectopadillafinal\\finalfinal\\ProyectoFinal\\wwwroot\\Imagenes\\ImagenesSlider\\Marcos aqui!.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "529613"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VdPpdCms0kFh6SqiJRERYrnGyW5gojVL5gswsCe9VJ8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Dec 2024 02:30:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9juroak5o2"
+        },
+        {
+          "Name": "label",
+          "Value": "Imagenes/ImagenesSlider/Marcos aqui!.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-VdPpdCms0kFh6SqiJRERYrnGyW5gojVL5gswsCe9VJ8="
+        }
+      ]
+    },
+    {
+      "Route": "Imagenes/ImagenesSlider/Marcos aqui!.png",
+      "AssetFile": "E:\\proyectopadillafinal\\finalfinal\\ProyectoFinal\\wwwroot\\Imagenes\\ImagenesSlider\\Marcos aqui!.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "529613"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VdPpdCms0kFh6SqiJRERYrnGyW5gojVL5gswsCe9VJ8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Dec 2024 02:30:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-VdPpdCms0kFh6SqiJRERYrnGyW5gojVL5gswsCe9VJ8="
+        }
+      ]
+    },
+    {
+      "Route": "Imagenes/ImagenesSlider/marcos em el equipo.9juroak5o2.png",
+      "AssetFile": "E:\\proyectopadillafinal\\finalfinal\\ProyectoFinal\\wwwroot\\Imagenes\\ImagenesSlider\\marcos em el equipo.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "529613"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VdPpdCms0kFh6SqiJRERYrnGyW5gojVL5gswsCe9VJ8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 10 Dec 2024 21:59:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9juroak5o2"
+        },
+        {
+          "Name": "label",
+          "Value": "Imagenes/ImagenesSlider/marcos em el equipo.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-VdPpdCms0kFh6SqiJRERYrnGyW5gojVL5gswsCe9VJ8="
+        }
+      ]
+    },
+    {
+      "Route": "Imagenes/ImagenesSlider/marcos em el equipo.png",
+      "AssetFile": "E:\\proyectopadillafinal\\finalfinal\\ProyectoFinal\\wwwroot\\Imagenes\\ImagenesSlider\\marcos em el equipo.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "529613"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VdPpdCms0kFh6SqiJRERYrnGyW5gojVL5gswsCe9VJ8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 10 Dec 2024 21:59:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-VdPpdCms0kFh6SqiJRERYrnGyW5gojVL5gswsCe9VJ8="
+        }
+      ]
+    },
+    {
+      "Route": "Imagenes/ImagenesSlider/miamor.5o8bbcqqo4.png",
+      "AssetFile": "E:\\proyectopadillafinal\\finalfinal\\ProyectoFinal\\wwwroot\\Imagenes\\ImagenesSlider\\miamor.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "76278"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"W0RMdcaGwDDpDSr+hJdQZOEjNlspUMD4Qjf08q3KkQc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Dec 2024 02:31:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5o8bbcqqo4"
+        },
+        {
+          "Name": "label",
+          "Value": "Imagenes/ImagenesSlider/miamor.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-W0RMdcaGwDDpDSr+hJdQZOEjNlspUMD4Qjf08q3KkQc="
+        }
+      ]
+    },
+    {
+      "Route": "Imagenes/ImagenesSlider/miamor.png",
+      "AssetFile": "E:\\proyectopadillafinal\\finalfinal\\ProyectoFinal\\wwwroot\\Imagenes\\ImagenesSlider\\miamor.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "76278"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"W0RMdcaGwDDpDSr+hJdQZOEjNlspUMD4Qjf08q3KkQc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Dec 2024 02:31:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-W0RMdcaGwDDpDSr+hJdQZOEjNlspUMD4Qjf08q3KkQc="
+        }
+      ]
+    },
+    {
+      "Route": "Imagenes/ImagenesSlider/Wearehere.7ird3gp942.png",
+      "AssetFile": "E:\\proyectopadillafinal\\finalfinal\\ProyectoFinal\\wwwroot\\Imagenes\\ImagenesSlider\\Wearehere.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1347700"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"f7/lqF1mci0q+6Z1Bb6Jgm/IlX93Ssw3VILnjJpHwYs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Dec 2024 20:33:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7ird3gp942"
+        },
+        {
+          "Name": "label",
+          "Value": "Imagenes/ImagenesSlider/Wearehere.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-f7/lqF1mci0q+6Z1Bb6Jgm/IlX93Ssw3VILnjJpHwYs="
+        }
+      ]
+    },
+    {
+      "Route": "Imagenes/ImagenesSlider/Wearehere.png",
+      "AssetFile": "E:\\proyectopadillafinal\\finalfinal\\ProyectoFinal\\wwwroot\\Imagenes\\ImagenesSlider\\Wearehere.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1347700"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"f7/lqF1mci0q+6Z1Bb6Jgm/IlX93Ssw3VILnjJpHwYs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Dec 2024 20:33:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-f7/lqF1mci0q+6Z1Bb6Jgm/IlX93Ssw3VILnjJpHwYs="
+        }
+      ]
+    },
+    {
+      "Route": "Imagenes/ImagenesSlider/xdxd.9juroak5o2.png",
+      "AssetFile": "E:\\proyectopadillafinal\\finalfinal\\ProyectoFinal\\wwwroot\\Imagenes\\ImagenesSlider\\xdxd.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "529613"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VdPpdCms0kFh6SqiJRERYrnGyW5gojVL5gswsCe9VJ8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Dec 2024 02:31:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9juroak5o2"
+        },
+        {
+          "Name": "label",
+          "Value": "Imagenes/ImagenesSlider/xdxd.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-VdPpdCms0kFh6SqiJRERYrnGyW5gojVL5gswsCe9VJ8="
+        }
+      ]
+    },
+    {
+      "Route": "Imagenes/ImagenesSlider/xdxd.png",
+      "AssetFile": "E:\\proyectopadillafinal\\finalfinal\\ProyectoFinal\\wwwroot\\Imagenes\\ImagenesSlider\\xdxd.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "529613"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VdPpdCms0kFh6SqiJRERYrnGyW5gojVL5gswsCe9VJ8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Dec 2024 02:31:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-VdPpdCms0kFh6SqiJRERYrnGyW5gojVL5gswsCe9VJ8="
+        }
+      ]
+    },
+    {
+      "Route": "Imagenes/ImagenesSlider/xdxdxd.png",
+      "AssetFile": "E:\\proyectopadillafinal\\finalfinal\\ProyectoFinal\\wwwroot\\Imagenes\\ImagenesSlider\\xdxdxd.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3766888"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5AlZiRI81pKgT+ZBVDcXa+IcJitbojHFXfmlzyObGQs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Dec 2024 02:14:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5AlZiRI81pKgT+ZBVDcXa+IcJitbojHFXfmlzyObGQs="
+        }
+      ]
+    },
+    {
+      "Route": "Imagenes/ImagenesSlider/xdxdxd.wncw62e0ug.png",
+      "AssetFile": "E:\\proyectopadillafinal\\finalfinal\\ProyectoFinal\\wwwroot\\Imagenes\\ImagenesSlider\\xdxdxd.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3766888"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5AlZiRI81pKgT+ZBVDcXa+IcJitbojHFXfmlzyObGQs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Dec 2024 02:14:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wncw62e0ug"
+        },
+        {
+          "Name": "label",
+          "Value": "Imagenes/ImagenesSlider/xdxdxd.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5AlZiRI81pKgT+ZBVDcXa+IcJitbojHFXfmlzyObGQs="
+        }
+      ]
+    },
+    {
+      "Route": "Imagenes/Jugadores/3.bvb52nlyea.png",
+      "AssetFile": "E:\\proyectopadillafinal\\finalfinal\\ProyectoFinal\\wwwroot\\Imagenes\\Jugadores\\3.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5977377"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qWZd2eZ5HvbAXQ8EXPDIITKiCPwusPlZLcWQNgWOIfE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Dec 2024 23:37:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bvb52nlyea"
+        },
+        {
+          "Name": "label",
+          "Value": "Imagenes/Jugadores/3.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qWZd2eZ5HvbAXQ8EXPDIITKiCPwusPlZLcWQNgWOIfE="
+        }
+      ]
+    },
+    {
+      "Route": "Imagenes/Jugadores/3.png",
+      "AssetFile": "E:\\proyectopadillafinal\\finalfinal\\ProyectoFinal\\wwwroot\\Imagenes\\Jugadores\\3.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5977377"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qWZd2eZ5HvbAXQ8EXPDIITKiCPwusPlZLcWQNgWOIfE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Dec 2024 23:37:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qWZd2eZ5HvbAXQ8EXPDIITKiCPwusPlZLcWQNgWOIfE="
+        }
+      ]
+    },
+    {
+      "Route": "Imagenes/Jugadores/4.6fq2vbafbd.png",
+      "AssetFile": "E:\\proyectopadillafinal\\finalfinal\\ProyectoFinal\\wwwroot\\Imagenes\\Jugadores\\4.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11182172"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"viITs9EisZyGdjuZSIayK2XJ9UZf3sk4s+jrlVyWgYw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Dec 2024 23:38:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6fq2vbafbd"
+        },
+        {
+          "Name": "label",
+          "Value": "Imagenes/Jugadores/4.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-viITs9EisZyGdjuZSIayK2XJ9UZf3sk4s+jrlVyWgYw="
+        }
+      ]
+    },
+    {
+      "Route": "Imagenes/Jugadores/4.png",
+      "AssetFile": "E:\\proyectopadillafinal\\finalfinal\\ProyectoFinal\\wwwroot\\Imagenes\\Jugadores\\4.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11182172"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"viITs9EisZyGdjuZSIayK2XJ9UZf3sk4s+jrlVyWgYw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Dec 2024 23:38:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-viITs9EisZyGdjuZSIayK2XJ9UZf3sk4s+jrlVyWgYw="
+        }
+      ]
+    },
+    {
+      "Route": "Imagenes/Jugadores/5.21g6k5lz3g.png",
+      "AssetFile": "E:\\proyectopadillafinal\\finalfinal\\ProyectoFinal\\wwwroot\\Imagenes\\Jugadores\\5.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "18760071"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WpEz0uPSwJqgwkWSnucNvAwqzP4TqxY84GZ2gpA9ouE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Dec 2024 23:39:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "21g6k5lz3g"
+        },
+        {
+          "Name": "label",
+          "Value": "Imagenes/Jugadores/5.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-WpEz0uPSwJqgwkWSnucNvAwqzP4TqxY84GZ2gpA9ouE="
+        }
+      ]
+    },
+    {
+      "Route": "Imagenes/Jugadores/5.png",
+      "AssetFile": "E:\\proyectopadillafinal\\finalfinal\\ProyectoFinal\\wwwroot\\Imagenes\\Jugadores\\5.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "18760071"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WpEz0uPSwJqgwkWSnucNvAwqzP4TqxY84GZ2gpA9ouE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Dec 2024 23:39:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-WpEz0uPSwJqgwkWSnucNvAwqzP4TqxY84GZ2gpA9ouE="
+        }
+      ]
+    },
+    {
+      "Route": "Imagenes/Jugadores/6.png",
+      "AssetFile": "E:\\proyectopadillafinal\\finalfinal\\ProyectoFinal\\wwwroot\\Imagenes\\Jugadores\\6.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14925661"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eHEm0uTVAI51rBG35UE6/N2yvWsSWeAdsmQLuiutF78=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Dec 2024 23:39:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-eHEm0uTVAI51rBG35UE6/N2yvWsSWeAdsmQLuiutF78="
+        }
+      ]
+    },
+    {
+      "Route": "Imagenes/Jugadores/6.wqntwlgbs9.png",
+      "AssetFile": "E:\\proyectopadillafinal\\finalfinal\\ProyectoFinal\\wwwroot\\Imagenes\\Jugadores\\6.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14925661"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eHEm0uTVAI51rBG35UE6/N2yvWsSWeAdsmQLuiutF78=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Dec 2024 23:39:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wqntwlgbs9"
+        },
+        {
+          "Name": "label",
+          "Value": "Imagenes/Jugadores/6.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-eHEm0uTVAI51rBG35UE6/N2yvWsSWeAdsmQLuiutF78="
+        }
+      ]
+    },
+    {
+      "Route": "Imagenes/Jugadores/jugadores.bciiials98.png",
+      "AssetFile": "E:\\proyectopadillafinal\\finalfinal\\ProyectoFinal\\wwwroot\\Imagenes\\Jugadores\\jugadores.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "22539589"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pcgmNlVVVL3da98JAA6YoqfwXPH2h4eXr9sEvLXX1ds=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 05 Dec 2024 21:57:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bciiials98"
+        },
+        {
+          "Name": "label",
+          "Value": "Imagenes/Jugadores/jugadores.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-pcgmNlVVVL3da98JAA6YoqfwXPH2h4eXr9sEvLXX1ds="
+        }
+      ]
+    },
+    {
+      "Route": "Imagenes/Jugadores/jugadores.png",
+      "AssetFile": "E:\\proyectopadillafinal\\finalfinal\\ProyectoFinal\\wwwroot\\Imagenes\\Jugadores\\jugadores.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "22539589"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pcgmNlVVVL3da98JAA6YoqfwXPH2h4eXr9sEvLXX1ds=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 05 Dec 2024 21:57:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-pcgmNlVVVL3da98JAA6YoqfwXPH2h4eXr9sEvLXX1ds="
+        }
+      ]
+    },
+    {
+      "Route": "Imagenes/logo.8tc6jwvm6m.png",
+      "AssetFile": "E:\\proyectopadillafinal\\finalfinal\\ProyectoFinal\\wwwroot\\Imagenes\\logo.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "55105"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pJYlgQXipsiwrMY0ceW5HK2EoXowZ350ZRmbVRMpxpo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 May 2021 23:31:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8tc6jwvm6m"
+        },
+        {
+          "Name": "label",
+          "Value": "Imagenes/logo.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-pJYlgQXipsiwrMY0ceW5HK2EoXowZ350ZRmbVRMpxpo="
+        }
+      ]
+    },
+    {
+      "Route": "Imagenes/logo.png",
+      "AssetFile": "E:\\proyectopadillafinal\\finalfinal\\ProyectoFinal\\wwwroot\\Imagenes\\logo.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "55105"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pJYlgQXipsiwrMY0ceW5HK2EoXowZ350ZRmbVRMpxpo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 May 2021 23:31:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-pJYlgQXipsiwrMY0ceW5HK2EoXowZ350ZRmbVRMpxpo="
+        }
+      ]
+    },
+    {
+      "Route": "LogosRedesSociales/LogoInstagram.png",
+      "AssetFile": "E:\\proyectopadillafinal\\finalfinal\\ProyectoFinal\\wwwroot\\LogosRedesSociales\\LogoInstagram.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26982"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rFxolUUOCRytU0N1RzhnbEBd82V5uR64uSVbBvYsreA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Dec 2024 21:17:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rFxolUUOCRytU0N1RzhnbEBd82V5uR64uSVbBvYsreA="
+        }
+      ]
+    },
+    {
+      "Route": "LogosRedesSociales/LogoInstagram.suc5z09x1t.png",
+      "AssetFile": "E:\\proyectopadillafinal\\finalfinal\\ProyectoFinal\\wwwroot\\LogosRedesSociales\\LogoInstagram.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26982"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rFxolUUOCRytU0N1RzhnbEBd82V5uR64uSVbBvYsreA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Dec 2024 21:17:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "suc5z09x1t"
+        },
+        {
+          "Name": "label",
+          "Value": "LogosRedesSociales/LogoInstagram.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-rFxolUUOCRytU0N1RzhnbEBd82V5uR64uSVbBvYsreA="
+        }
+      ]
+    },
+    {
+      "Route": "LogosRedesSociales/LogoTwitter.b692qa15t5.png",
+      "AssetFile": "E:\\proyectopadillafinal\\finalfinal\\ProyectoFinal\\wwwroot\\LogosRedesSociales\\LogoTwitter.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14769"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"86zN0yMWJcsgpKb+8zfGN91bwkaQLcn1cAfwDcs4XvE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Dec 2024 21:17:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "b692qa15t5"
+        },
+        {
+          "Name": "label",
+          "Value": "LogosRedesSociales/LogoTwitter.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-86zN0yMWJcsgpKb+8zfGN91bwkaQLcn1cAfwDcs4XvE="
+        }
+      ]
+    },
+    {
+      "Route": "LogosRedesSociales/LogoTwitter.png",
+      "AssetFile": "E:\\proyectopadillafinal\\finalfinal\\ProyectoFinal\\wwwroot\\LogosRedesSociales\\LogoTwitter.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14769"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"86zN0yMWJcsgpKb+8zfGN91bwkaQLcn1cAfwDcs4XvE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Dec 2024 21:17:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-86zN0yMWJcsgpKb+8zfGN91bwkaQLcn1cAfwDcs4XvE="
+        }
+      ]
+    },
+    {
+      "Route": "LogosRedesSociales/LogoYoutube.png",
+      "AssetFile": "E:\\proyectopadillafinal\\finalfinal\\ProyectoFinal\\wwwroot\\LogosRedesSociales\\LogoYoutube.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9536"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2B3eDDK4/HQMcAOp8Nt317epcwOouO0Egk24UB2Pr44=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Dec 2024 21:17:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2B3eDDK4/HQMcAOp8Nt317epcwOouO0Egk24UB2Pr44="
+        }
+      ]
+    },
+    {
+      "Route": "LogosRedesSociales/LogoYoutube.sjhcur5fob.png",
+      "AssetFile": "E:\\proyectopadillafinal\\finalfinal\\ProyectoFinal\\wwwroot\\LogosRedesSociales\\LogoYoutube.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9536"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2B3eDDK4/HQMcAOp8Nt317epcwOouO0Egk24UB2Pr44=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Dec 2024 21:17:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "sjhcur5fob"
+        },
+        {
+          "Name": "label",
+          "Value": "LogosRedesSociales/LogoYoutube.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2B3eDDK4/HQMcAOp8Nt317epcwOouO0Egk24UB2Pr44="
+        }
+      ]
+    }
+  ]
+}

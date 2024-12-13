@@ -1,0 +1,1619 @@
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\appsettings.json
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\ProyectoFinal.staticwebassets.runtime.json
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\ProyectoFinal.exe
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\ProyectoFinal.deps.json
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\ProyectoFinal.runtimeconfig.json
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\ProyectoFinal.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\ProyectoFinal.pdb
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\Microsoft.Build.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\NuGet.Common.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\NuGet.Configuration.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\NuGet.Frameworks.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\NuGet.LibraryModel.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\NuGet.Packaging.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\NuGet.ProjectModel.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\NuGet.Protocol.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\NuGet.Versioning.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\af\Humanizer.resources.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\ar\Humanizer.resources.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\az\Humanizer.resources.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\bg\Humanizer.resources.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\cs\Humanizer.resources.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\da\Humanizer.resources.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\de\Humanizer.resources.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\el\Humanizer.resources.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\es\Humanizer.resources.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\fa\Humanizer.resources.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\fr\Humanizer.resources.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\he\Humanizer.resources.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\hr\Humanizer.resources.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\hu\Humanizer.resources.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\hy\Humanizer.resources.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\id\Humanizer.resources.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\is\Humanizer.resources.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\it\Humanizer.resources.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\ja\Humanizer.resources.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\ku\Humanizer.resources.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\lv\Humanizer.resources.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\mt\Humanizer.resources.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\nb\Humanizer.resources.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\nl\Humanizer.resources.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\pl\Humanizer.resources.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\pt\Humanizer.resources.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\ro\Humanizer.resources.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\ru\Humanizer.resources.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\sk\Humanizer.resources.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\sl\Humanizer.resources.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\sr\Humanizer.resources.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\sv\Humanizer.resources.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\tr\Humanizer.resources.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\uk\Humanizer.resources.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\vi\Humanizer.resources.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\obj\Debug\net8.0\ProyectoFinal.csproj.AssemblyReference.cache
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\obj\Debug\net8.0\ProyectoFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\obj\Debug\net8.0\ProyectoFinal.AssemblyInfoInputs.cache
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\obj\Debug\net8.0\ProyectoFinal.AssemblyInfo.cs
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\obj\Debug\net8.0\ProyectoFinal.csproj.CoreCompileInputs.cache
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\obj\Debug\net8.0\ProyectoFinal.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\obj\Debug\net8.0\staticwebassets\msbuild.ProyectoFinal.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\obj\Debug\net8.0\staticwebassets\msbuild.build.ProyectoFinal.props
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ProyectoFinal.props
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ProyectoFinal.props
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\obj\Debug\net8.0\scopedcss\bundle\ProyectoFinal.styles.css
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\obj\Debug\net8.0\Proyecto.489DB05A.Up2Date
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\obj\Debug\net8.0\ProyectoFinal.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\obj\Debug\net8.0\refint\ProyectoFinal.dll
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\obj\Debug\net8.0\ProyectoFinal.pdb
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\obj\Debug\net8.0\ProyectoFinal.genruntimeconfig.cache
+C:\Users\Adrian Salinas\source\repos\ProyectoFinal\obj\Debug\net8.0\ref\ProyectoFinal.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\appsettings.json
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\ProyectoFinal.staticwebassets.runtime.json
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\ProyectoFinal.exe
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\ProyectoFinal.deps.json
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\ProyectoFinal.runtimeconfig.json
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\ProyectoFinal.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\ProyectoFinal.pdb
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\Humanizer.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\Microsoft.Build.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\NuGet.Common.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\NuGet.Configuration.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\NuGet.Frameworks.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\NuGet.LibraryModel.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\NuGet.Packaging.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\NuGet.ProjectModel.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\NuGet.Protocol.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\NuGet.Versioning.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\af\Humanizer.resources.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\ar\Humanizer.resources.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\az\Humanizer.resources.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\bg\Humanizer.resources.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\cs\Humanizer.resources.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\da\Humanizer.resources.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\de\Humanizer.resources.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\el\Humanizer.resources.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\es\Humanizer.resources.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\fa\Humanizer.resources.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\fr\Humanizer.resources.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\he\Humanizer.resources.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\hr\Humanizer.resources.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\hu\Humanizer.resources.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\hy\Humanizer.resources.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\id\Humanizer.resources.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\is\Humanizer.resources.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\it\Humanizer.resources.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\ja\Humanizer.resources.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\ku\Humanizer.resources.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\lv\Humanizer.resources.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\mt\Humanizer.resources.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\nb\Humanizer.resources.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\nl\Humanizer.resources.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\pl\Humanizer.resources.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\pt\Humanizer.resources.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\ro\Humanizer.resources.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\ru\Humanizer.resources.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\sk\Humanizer.resources.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\sl\Humanizer.resources.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\sr\Humanizer.resources.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\sv\Humanizer.resources.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\tr\Humanizer.resources.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\uk\Humanizer.resources.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\vi\Humanizer.resources.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\marco\Desktop\ProyectoFinal\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Users\marco\Desktop\ProyectoFinal\obj\Debug\net8.0\ProyectoFinal.csproj.AssemblyReference.cache
+C:\Users\marco\Desktop\ProyectoFinal\obj\Debug\net8.0\ProyectoFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\Desktop\ProyectoFinal\obj\Debug\net8.0\ProyectoFinal.AssemblyInfoInputs.cache
+C:\Users\marco\Desktop\ProyectoFinal\obj\Debug\net8.0\ProyectoFinal.AssemblyInfo.cs
+C:\Users\marco\Desktop\ProyectoFinal\obj\Debug\net8.0\ProyectoFinal.csproj.CoreCompileInputs.cache
+C:\Users\marco\Desktop\ProyectoFinal\obj\Debug\net8.0\ProyectoFinal.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\marco\Desktop\ProyectoFinal\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\marco\Desktop\ProyectoFinal\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\marco\Desktop\ProyectoFinal\obj\Debug\net8.0\staticwebassets\msbuild.ProyectoFinal.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\marco\Desktop\ProyectoFinal\obj\Debug\net8.0\staticwebassets\msbuild.build.ProyectoFinal.props
+C:\Users\marco\Desktop\ProyectoFinal\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ProyectoFinal.props
+C:\Users\marco\Desktop\ProyectoFinal\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ProyectoFinal.props
+C:\Users\marco\Desktop\ProyectoFinal\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\marco\Desktop\ProyectoFinal\obj\Debug\net8.0\scopedcss\bundle\ProyectoFinal.styles.css
+C:\Users\marco\Desktop\ProyectoFinal\obj\Debug\net8.0\Proyecto.489DB05A.Up2Date
+C:\Users\marco\Desktop\ProyectoFinal\obj\Debug\net8.0\ProyectoFinal.dll
+C:\Users\marco\Desktop\ProyectoFinal\obj\Debug\net8.0\refint\ProyectoFinal.dll
+C:\Users\marco\Desktop\ProyectoFinal\obj\Debug\net8.0\ProyectoFinal.pdb
+C:\Users\marco\Desktop\ProyectoFinal\obj\Debug\net8.0\ProyectoFinal.genruntimeconfig.cache
+C:\Users\marco\Desktop\ProyectoFinal\obj\Debug\net8.0\ref\ProyectoFinal.dll
+C:\Users\marco\Desktop\ProyectoFinal\obj\Debug\net8.0\ProyectoFinal.RazorAssemblyInfo.cache
+C:\Users\marco\Desktop\ProyectoFinal\obj\Debug\net8.0\ProyectoFinal.RazorAssemblyInfo.cs
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\appsettings.Development.json
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\appsettings.json
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\ProyectoFinal.staticwebassets.runtime.json
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\ProyectoFinal.staticwebassets.endpoints.json
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\ProyectoFinal.exe
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\ProyectoFinal.deps.json
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\ProyectoFinal.runtimeconfig.json
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\ProyectoFinal.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\ProyectoFinal.pdb
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\Humanizer.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\Microsoft.Build.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\MySqlConnector.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\NuGet.Common.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\NuGet.Configuration.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\NuGet.Frameworks.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\NuGet.LibraryModel.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\NuGet.Packaging.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\NuGet.ProjectModel.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\NuGet.Protocol.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\NuGet.Versioning.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\System.CodeDom.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\af\Humanizer.resources.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\ar\Humanizer.resources.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\az\Humanizer.resources.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\bg\Humanizer.resources.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\cs\Humanizer.resources.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\da\Humanizer.resources.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\de\Humanizer.resources.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\el\Humanizer.resources.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\es\Humanizer.resources.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\fa\Humanizer.resources.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\fr\Humanizer.resources.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\he\Humanizer.resources.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\hr\Humanizer.resources.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\hu\Humanizer.resources.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\hy\Humanizer.resources.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\id\Humanizer.resources.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\is\Humanizer.resources.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\it\Humanizer.resources.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\ja\Humanizer.resources.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\ku\Humanizer.resources.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\lv\Humanizer.resources.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\mt\Humanizer.resources.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\nb\Humanizer.resources.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\nl\Humanizer.resources.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\pl\Humanizer.resources.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\pt\Humanizer.resources.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\ro\Humanizer.resources.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\ru\Humanizer.resources.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\sk\Humanizer.resources.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\sl\Humanizer.resources.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\sr\Humanizer.resources.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\sv\Humanizer.resources.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\tr\Humanizer.resources.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\uk\Humanizer.resources.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\vi\Humanizer.resources.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\obj\Debug\net8.0\ProyectoFinal.csproj.AssemblyReference.cache
+E:\PC\Descargas\Jugadores\ProyectoFinal\obj\Debug\net8.0\ProyectoFinal.GeneratedMSBuildEditorConfig.editorconfig
+E:\PC\Descargas\Jugadores\ProyectoFinal\obj\Debug\net8.0\ProyectoFinal.AssemblyInfoInputs.cache
+E:\PC\Descargas\Jugadores\ProyectoFinal\obj\Debug\net8.0\ProyectoFinal.AssemblyInfo.cs
+E:\PC\Descargas\Jugadores\ProyectoFinal\obj\Debug\net8.0\ProyectoFinal.csproj.CoreCompileInputs.cache
+E:\PC\Descargas\Jugadores\ProyectoFinal\obj\Debug\net8.0\ProyectoFinal.MvcApplicationPartsAssemblyInfo.cache
+E:\PC\Descargas\Jugadores\ProyectoFinal\obj\Debug\net8.0\ProyectoFinal.RazorAssemblyInfo.cache
+E:\PC\Descargas\Jugadores\ProyectoFinal\obj\Debug\net8.0\ProyectoFinal.RazorAssemblyInfo.cs
+E:\PC\Descargas\Jugadores\ProyectoFinal\obj\Debug\net8.0\scopedcss\bundle\ProyectoFinal.styles.css
+E:\PC\Descargas\Jugadores\ProyectoFinal\obj\Debug\net8.0\staticwebassets.build.json
+E:\PC\Descargas\Jugadores\ProyectoFinal\obj\Debug\net8.0\staticwebassets.development.json
+E:\PC\Descargas\Jugadores\ProyectoFinal\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\PC\Descargas\Jugadores\ProyectoFinal\obj\Debug\net8.0\staticwebassets\msbuild.ProyectoFinal.Microsoft.AspNetCore.StaticWebAssets.props
+E:\PC\Descargas\Jugadores\ProyectoFinal\obj\Debug\net8.0\staticwebassets\msbuild.ProyectoFinal.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\PC\Descargas\Jugadores\ProyectoFinal\obj\Debug\net8.0\staticwebassets\msbuild.build.ProyectoFinal.props
+E:\PC\Descargas\Jugadores\ProyectoFinal\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ProyectoFinal.props
+E:\PC\Descargas\Jugadores\ProyectoFinal\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ProyectoFinal.props
+E:\PC\Descargas\Jugadores\ProyectoFinal\obj\Debug\net8.0\staticwebassets.pack.json
+E:\PC\Descargas\Jugadores\ProyectoFinal\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+E:\PC\Descargas\Jugadores\ProyectoFinal\obj\Debug\net8.0\Proyecto.489DB05A.Up2Date
+E:\PC\Descargas\Jugadores\ProyectoFinal\obj\Debug\net8.0\ProyectoFinal.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\obj\Debug\net8.0\refint\ProyectoFinal.dll
+E:\PC\Descargas\Jugadores\ProyectoFinal\obj\Debug\net8.0\ProyectoFinal.pdb
+E:\PC\Descargas\Jugadores\ProyectoFinal\obj\Debug\net8.0\ProyectoFinal.genruntimeconfig.cache
+E:\PC\Descargas\Jugadores\ProyectoFinal\obj\Debug\net8.0\ref\ProyectoFinal.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\appsettings.json
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\ProyectoFinal.staticwebassets.runtime.json
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\ProyectoFinal.exe
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\ProyectoFinal.deps.json
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\ProyectoFinal.runtimeconfig.json
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\ProyectoFinal.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\ProyectoFinal.pdb
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\Humanizer.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\Microsoft.Build.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\NuGet.Common.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\NuGet.Configuration.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\NuGet.Frameworks.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\NuGet.LibraryModel.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\NuGet.Packaging.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\NuGet.ProjectModel.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\NuGet.Protocol.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\NuGet.Versioning.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\af\Humanizer.resources.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\ar\Humanizer.resources.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\az\Humanizer.resources.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\bg\Humanizer.resources.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\cs\Humanizer.resources.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\da\Humanizer.resources.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\de\Humanizer.resources.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\el\Humanizer.resources.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\es\Humanizer.resources.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\fa\Humanizer.resources.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\fr\Humanizer.resources.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\he\Humanizer.resources.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\hr\Humanizer.resources.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\hu\Humanizer.resources.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\hy\Humanizer.resources.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\id\Humanizer.resources.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\is\Humanizer.resources.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\it\Humanizer.resources.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\ja\Humanizer.resources.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\ku\Humanizer.resources.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\lv\Humanizer.resources.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\mt\Humanizer.resources.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\nb\Humanizer.resources.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\nl\Humanizer.resources.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\pl\Humanizer.resources.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\pt\Humanizer.resources.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\ro\Humanizer.resources.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\ru\Humanizer.resources.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\sk\Humanizer.resources.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\sl\Humanizer.resources.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\sr\Humanizer.resources.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\sv\Humanizer.resources.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\tr\Humanizer.resources.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\uk\Humanizer.resources.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\vi\Humanizer.resources.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\obj\Debug\net8.0\ProyectoFinal.csproj.AssemblyReference.cache
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\obj\Debug\net8.0\ProyectoFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\obj\Debug\net8.0\ProyectoFinal.AssemblyInfoInputs.cache
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\obj\Debug\net8.0\ProyectoFinal.AssemblyInfo.cs
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\obj\Debug\net8.0\ProyectoFinal.csproj.CoreCompileInputs.cache
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\obj\Debug\net8.0\ProyectoFinal.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\obj\Debug\net8.0\ProyectoFinal.RazorAssemblyInfo.cache
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\obj\Debug\net8.0\ProyectoFinal.RazorAssemblyInfo.cs
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\obj\Debug\net8.0\staticwebassets\msbuild.ProyectoFinal.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\obj\Debug\net8.0\staticwebassets\msbuild.build.ProyectoFinal.props
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ProyectoFinal.props
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ProyectoFinal.props
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\obj\Debug\net8.0\scopedcss\bundle\ProyectoFinal.styles.css
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\obj\Debug\net8.0\Proyecto.489DB05A.Up2Date
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\obj\Debug\net8.0\ProyectoFinal.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\obj\Debug\net8.0\refint\ProyectoFinal.dll
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\obj\Debug\net8.0\ProyectoFinal.pdb
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\obj\Debug\net8.0\ProyectoFinal.genruntimeconfig.cache
+C:\Users\marco\Desktop\Nueva carpeta (2)\ProyectoFinal\obj\Debug\net8.0\ref\ProyectoFinal.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\appsettings.Development.json
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\appsettings.json
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\ProyectoFinal.staticwebassets.runtime.json
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\ProyectoFinal.staticwebassets.endpoints.json
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\ProyectoFinal.exe
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\ProyectoFinal.deps.json
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\ProyectoFinal.runtimeconfig.json
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\ProyectoFinal.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\ProyectoFinal.pdb
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\Humanizer.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\Microsoft.Build.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\MySqlConnector.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\NuGet.Common.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\NuGet.Configuration.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\NuGet.Frameworks.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\NuGet.LibraryModel.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\NuGet.Packaging.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\NuGet.ProjectModel.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\NuGet.Protocol.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\NuGet.Versioning.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\System.CodeDom.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\af\Humanizer.resources.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\ar\Humanizer.resources.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\az\Humanizer.resources.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\bg\Humanizer.resources.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\cs\Humanizer.resources.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\da\Humanizer.resources.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\de\Humanizer.resources.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\el\Humanizer.resources.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\es\Humanizer.resources.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\fa\Humanizer.resources.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\fr\Humanizer.resources.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\he\Humanizer.resources.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\hr\Humanizer.resources.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\hu\Humanizer.resources.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\hy\Humanizer.resources.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\id\Humanizer.resources.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\is\Humanizer.resources.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\it\Humanizer.resources.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\ja\Humanizer.resources.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\ku\Humanizer.resources.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\lv\Humanizer.resources.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\mt\Humanizer.resources.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\nb\Humanizer.resources.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\nl\Humanizer.resources.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\pl\Humanizer.resources.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\pt\Humanizer.resources.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\ro\Humanizer.resources.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\ru\Humanizer.resources.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\sk\Humanizer.resources.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\sl\Humanizer.resources.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\sr\Humanizer.resources.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\sv\Humanizer.resources.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\tr\Humanizer.resources.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\uk\Humanizer.resources.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\vi\Humanizer.resources.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\obj\Debug\net8.0\ProyectoFinal.csproj.AssemblyReference.cache
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\obj\Debug\net8.0\ProyectoFinal.GeneratedMSBuildEditorConfig.editorconfig
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\obj\Debug\net8.0\ProyectoFinal.AssemblyInfoInputs.cache
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\obj\Debug\net8.0\ProyectoFinal.AssemblyInfo.cs
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\obj\Debug\net8.0\ProyectoFinal.csproj.CoreCompileInputs.cache
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\obj\Debug\net8.0\ProyectoFinal.MvcApplicationPartsAssemblyInfo.cache
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\obj\Debug\net8.0\ProyectoFinal.RazorAssemblyInfo.cache
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\obj\Debug\net8.0\ProyectoFinal.RazorAssemblyInfo.cs
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\obj\Debug\net8.0\scopedcss\bundle\ProyectoFinal.styles.css
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\obj\Debug\net8.0\staticwebassets.build.json
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\obj\Debug\net8.0\staticwebassets.development.json
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\obj\Debug\net8.0\staticwebassets\msbuild.ProyectoFinal.Microsoft.AspNetCore.StaticWebAssets.props
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\obj\Debug\net8.0\staticwebassets\msbuild.ProyectoFinal.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\obj\Debug\net8.0\staticwebassets\msbuild.build.ProyectoFinal.props
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ProyectoFinal.props
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ProyectoFinal.props
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\obj\Debug\net8.0\staticwebassets.pack.json
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\obj\Debug\net8.0\Proyecto.489DB05A.Up2Date
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\obj\Debug\net8.0\ProyectoFinal.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\obj\Debug\net8.0\refint\ProyectoFinal.dll
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\obj\Debug\net8.0\ProyectoFinal.pdb
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\obj\Debug\net8.0\ProyectoFinal.genruntimeconfig.cache
+E:\PC\Descargas\Jugadores\proyectopadillafinal\ProyectoFinal\obj\Debug\net8.0\ref\ProyectoFinal.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\appsettings.Development.json
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\appsettings.json
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\ProyectoFinal.staticwebassets.runtime.json
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\ProyectoFinal.staticwebassets.endpoints.json
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\ProyectoFinal.exe
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\ProyectoFinal.deps.json
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\ProyectoFinal.runtimeconfig.json
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\ProyectoFinal.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\ProyectoFinal.pdb
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\Humanizer.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\Microsoft.Build.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\Mono.TextTemplating.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\MySqlConnector.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\Newtonsoft.Json.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\NuGet.Common.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\NuGet.Configuration.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\NuGet.Frameworks.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\NuGet.LibraryModel.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\NuGet.Packaging.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\NuGet.ProjectModel.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\NuGet.Protocol.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\NuGet.Versioning.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\System.CodeDom.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\System.Composition.Convention.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\System.Composition.Hosting.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\System.Composition.Runtime.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\System.Composition.TypedParts.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\System.Drawing.Common.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\System.Security.Permissions.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\System.Windows.Extensions.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\af\Humanizer.resources.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\ar\Humanizer.resources.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\az\Humanizer.resources.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\bg\Humanizer.resources.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\cs\Humanizer.resources.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\da\Humanizer.resources.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\de\Humanizer.resources.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\el\Humanizer.resources.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\es\Humanizer.resources.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\fa\Humanizer.resources.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\fr\Humanizer.resources.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\he\Humanizer.resources.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\hr\Humanizer.resources.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\hu\Humanizer.resources.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\hy\Humanizer.resources.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\id\Humanizer.resources.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\is\Humanizer.resources.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\it\Humanizer.resources.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\ja\Humanizer.resources.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\ku\Humanizer.resources.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\lv\Humanizer.resources.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\mt\Humanizer.resources.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\nb\Humanizer.resources.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\nl\Humanizer.resources.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\pl\Humanizer.resources.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\pt\Humanizer.resources.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\ro\Humanizer.resources.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\ru\Humanizer.resources.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\sk\Humanizer.resources.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\sl\Humanizer.resources.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\sr\Humanizer.resources.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\sv\Humanizer.resources.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\tr\Humanizer.resources.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\uk\Humanizer.resources.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\vi\Humanizer.resources.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\obj\Debug\net8.0\ProyectoFinal.csproj.AssemblyReference.cache
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\obj\Debug\net8.0\ProyectoFinal.GeneratedMSBuildEditorConfig.editorconfig
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\obj\Debug\net8.0\ProyectoFinal.AssemblyInfoInputs.cache
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\obj\Debug\net8.0\ProyectoFinal.AssemblyInfo.cs
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\obj\Debug\net8.0\ProyectoFinal.csproj.CoreCompileInputs.cache
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\obj\Debug\net8.0\ProyectoFinal.MvcApplicationPartsAssemblyInfo.cache
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\obj\Debug\net8.0\ProyectoFinal.RazorAssemblyInfo.cache
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\obj\Debug\net8.0\ProyectoFinal.RazorAssemblyInfo.cs
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\obj\Debug\net8.0\scopedcss\bundle\ProyectoFinal.styles.css
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\obj\Debug\net8.0\staticwebassets.build.json
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\obj\Debug\net8.0\staticwebassets.development.json
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\obj\Debug\net8.0\staticwebassets\msbuild.ProyectoFinal.Microsoft.AspNetCore.StaticWebAssets.props
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\obj\Debug\net8.0\staticwebassets\msbuild.ProyectoFinal.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\obj\Debug\net8.0\staticwebassets\msbuild.build.ProyectoFinal.props
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ProyectoFinal.props
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ProyectoFinal.props
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\obj\Debug\net8.0\staticwebassets.pack.json
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\obj\Debug\net8.0\Proyecto.489DB05A.Up2Date
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\obj\Debug\net8.0\ProyectoFinal.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\obj\Debug\net8.0\refint\ProyectoFinal.dll
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\obj\Debug\net8.0\ProyectoFinal.pdb
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\obj\Debug\net8.0\ProyectoFinal.genruntimeconfig.cache
+F:\proyectopadillafinal\finalfinal\ProyectoFinal\obj\Debug\net8.0\ref\ProyectoFinal.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\appsettings.Development.json
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\appsettings.json
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\ProyectoFinal.staticwebassets.endpoints.json
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\ProyectoFinal.staticwebassets.runtime.json
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\ProyectoFinal.exe
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\ProyectoFinal.deps.json
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\ProyectoFinal.runtimeconfig.json
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\ProyectoFinal.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\ProyectoFinal.pdb
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\Humanizer.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\Microsoft.Build.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\MySqlConnector.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\NuGet.Common.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\NuGet.Configuration.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\NuGet.Frameworks.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\NuGet.LibraryModel.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\NuGet.Packaging.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\NuGet.ProjectModel.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\NuGet.Protocol.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\NuGet.Versioning.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\System.CodeDom.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\af\Humanizer.resources.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\ar\Humanizer.resources.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\az\Humanizer.resources.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\bg\Humanizer.resources.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\cs\Humanizer.resources.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\da\Humanizer.resources.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\de\Humanizer.resources.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\el\Humanizer.resources.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\es\Humanizer.resources.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\fa\Humanizer.resources.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\fr\Humanizer.resources.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\he\Humanizer.resources.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\hr\Humanizer.resources.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\hu\Humanizer.resources.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\hy\Humanizer.resources.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\id\Humanizer.resources.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\is\Humanizer.resources.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\it\Humanizer.resources.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\ja\Humanizer.resources.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\ku\Humanizer.resources.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\lv\Humanizer.resources.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\mt\Humanizer.resources.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\nb\Humanizer.resources.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\nl\Humanizer.resources.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\pl\Humanizer.resources.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\pt\Humanizer.resources.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\ro\Humanizer.resources.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\ru\Humanizer.resources.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\sk\Humanizer.resources.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\sl\Humanizer.resources.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\sr\Humanizer.resources.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\sv\Humanizer.resources.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\tr\Humanizer.resources.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\uk\Humanizer.resources.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\vi\Humanizer.resources.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\obj\Debug\net8.0\ProyectoFinal.csproj.AssemblyReference.cache
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\obj\Debug\net8.0\ProyectoFinal.GeneratedMSBuildEditorConfig.editorconfig
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\obj\Debug\net8.0\ProyectoFinal.AssemblyInfoInputs.cache
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\obj\Debug\net8.0\ProyectoFinal.AssemblyInfo.cs
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\obj\Debug\net8.0\ProyectoFinal.csproj.CoreCompileInputs.cache
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\obj\Debug\net8.0\ProyectoFinal.MvcApplicationPartsAssemblyInfo.cache
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\obj\Debug\net8.0\ProyectoFinal.RazorAssemblyInfo.cache
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\obj\Debug\net8.0\ProyectoFinal.RazorAssemblyInfo.cs
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\obj\Debug\net8.0\scopedcss\bundle\ProyectoFinal.styles.css
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\obj\Debug\net8.0\staticwebassets.build.json
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\obj\Debug\net8.0\staticwebassets.development.json
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\obj\Debug\net8.0\staticwebassets\msbuild.ProyectoFinal.Microsoft.AspNetCore.StaticWebAssets.props
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\obj\Debug\net8.0\staticwebassets\msbuild.ProyectoFinal.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\obj\Debug\net8.0\staticwebassets\msbuild.build.ProyectoFinal.props
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ProyectoFinal.props
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ProyectoFinal.props
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\obj\Debug\net8.0\staticwebassets.pack.json
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\obj\Debug\net8.0\Proyecto.489DB05A.Up2Date
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\obj\Debug\net8.0\ProyectoFinal.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\obj\Debug\net8.0\refint\ProyectoFinal.dll
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\obj\Debug\net8.0\ProyectoFinal.pdb
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\obj\Debug\net8.0\ProyectoFinal.genruntimeconfig.cache
+E:\proyectopadillafinal\finalfinal\ProyectoFinal\obj\Debug\net8.0\ref\ProyectoFinal.dll

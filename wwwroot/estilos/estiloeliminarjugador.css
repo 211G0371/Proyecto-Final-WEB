@@ -1,0 +1,84 @@
+html, body {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    background-color: white;
+    font-family: "AnebaMedium", sans-serif;
+    overflow-x: hidden;
+    border-color: 2px solid #d5a940;
+    }
+
+    @font-face {
+        font-family: "AnebaMedium";
+        src: url("estilos/font/Borutta - Aneba Medium.otf") format("opentype");
+    }
+
+    header {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        height: 15%;
+        width: 100%;
+        background-color: black;
+        padding: 0 10px;
+        box-sizing: border-box;
+        position: relative;
+        z-index: 1;
+        border-bottom: 5px solid #d5a940;
+    }
+
+
+    .LogoEquipo {
+        margin-top: 5%;
+        width: 10%;
+        height: auto;
+    }
+
+    header a{
+        font-size: 60px;
+        color: white;
+    }
+
+
+    .formeliminar {
+        display: flex; 
+        flex-direction: column;
+        align-items: center; 
+        justify-content: center; 
+        height: 50%; 
+        width: 100%; 
+        background-color: black; 
+        padding: 20px; 
+        box-sizing: border-box; 
+        border-radius: 10px; 
+    }
+    
+    .formeliminar .pregunta {
+        color: white; 
+        font-size: 24px;
+        margin-bottom: 20px; 
+        text-align: center;
+    }
+    
+    .nombrejugador {
+        width: 80%; 
+        max-width: 400px; 
+        font-size: 18px;
+        padding: 10px; 
+        text-align: center; 
+        border: 2px solid white; 
+        background-color: black;
+        color: white; 
+        outline: none; 
+    }
+
+    .BotonesForm{
+        font-size: 30px;
+        text-align: center;
+    }
+
+    .BotonesForm a{
+        text-decoration: none;
+    }
+    

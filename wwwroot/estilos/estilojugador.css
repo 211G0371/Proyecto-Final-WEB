@@ -1,0 +1,80 @@
+html, body {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    background-color: white;
+    font-family: "AnebaMedium", sans-serif;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    border-color: 2px solid #d5a940;
+    }
+
+    @font-face {
+        font-family: "AnebaMedium";
+        src: url("estilos/font/Borutta - Aneba Medium.otf") format("opentype");
+    }
+
+    header {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        height: 15%;
+        width: 100%;
+        background-color: black;
+        padding: 0 10px;
+        box-sizing: border-box;
+        position: relative;
+        z-index: 1;
+        border-bottom: 5px solid #d5a940;
+    }
+
+    .linksizq,
+    .linksder {
+        display: flex;
+        gap: 20px;
+        color: white;
+        margin-left: 15%;
+        margin-right: 15%;
+    }
+
+    .LogoEquipo {
+        margin-top: 5%;
+        width: 10%;
+        height: auto;
+    }
+
+    a {
+        color: white;
+        text-decoration: none;
+        font-size: 26px;
+        padding: 10px 15px;
+        text-align: center;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        border-radius: 5px; 
+    }
+
+    a:hover {
+        text-decoration: underline;
+    }
+
+    .selected {
+        background-color: #d5a940;
+        color: black; 
+        border-radius: 10px; 
+    }
+
+
+
+    .Vistajugador img{
+        height: auto;
+        width: 800px;
+        margin-top: -50px;
+    }
+
+    .Vistajugador img:hover
+    {
+        transform: scale(1.12);
+    }

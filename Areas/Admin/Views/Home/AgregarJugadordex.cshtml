@@ -1,0 +1,44 @@
+﻿@model ProyectoFinal.Areas.Admin.Models.ViewModels.AgregarViewModel
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>AgregarJugador</title>
+	<link rel="stylesheet" href="~/estilos/estiloadm.css">
+</head>
+<body>
+	<header>
+		<img class="LogoEquipo" src="~/Imagenes/logo.png" alt="Logo Equipo">
+		<a>Administrador</a>
+	</header>
+	<main>
+		<div class="ContenedorFormulario">
+			<form method="post" action="~/Admin/Home/AgregarJugadordex" enctype="multipart/form-data" class="FormularioJugador">
+				<label for="nombre">Nombre:</label>
+				<input asp-for="@Model.Jugadores.Nombre" type="text">
+
+				<label for="Imagen">Imagen:</label>
+				<input asp-for="@Model.Imagen" type="file" id="imagenjugador">
+
+				<label for="pais">País:</label>
+				<input type="text" asp-for="@Model.Jugadores.Pais">
+
+				<label for="Gamertag">Gamertag:</label>
+				<input type="text" asp-for="@Model.Jugadores.Gamertag">
+
+				<label for="rol">Rol:</label>
+				<input type="text" asp-for="@Model.Jugadores.Rol">
+
+
+				<button type="submit">Guardar</button>
+				<div class="errores"></div>
+				@Html.ValidationSummary()
+
+			</form>
+		</div>
+
+	</main>
+</body>
+</html>

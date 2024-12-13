@@ -1,0 +1,45 @@
+﻿@model IEnumerable<ProyectoFinal.Models.Entities.Jugadores>
+@{
+	ViewData["Title"] = "Admjugadores";
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>IndexAdm</title>
+	<link rel="stylesheet" href="~/estilos/indexadm.css">
+</head>
+<body>
+	<header>
+		<img class="LogoEquipo" src="~/Imagenes/logo.png" alt="Logo Equipo">
+		<a>Administrador</a>
+	</header>
+	<main>
+
+		<div class="AgregarNuevoJugador">
+			<a href="~/Admin/Home/AgregarJugadordex">AgregarNuevoJugador</a>
+		</div>
+
+		<div class="ContenidoJugadores">
+			<section class="ListaJugadores">
+
+				@foreach (var p in Model)
+				{
+					<div class="Jugador">
+						<img src="~/Imagenes/Jugadores/@(p.Id).png" alt="Fabrizio">
+						<div class="BotonesJugador">
+							<a class="BotonEditar" href="~/Admin/Home/EditarJugador/@(p.Id)">Editar</a>
+							<a class="BotonEliminar" href="~/Admin/Home/EliminarJugador/@(p.Id)">Eliminar</a>
+							<a class="BotonEliminar" href="~/Admin/Home/AgregarEstadisticas/@(p.Id)">Stats</a>
+							
+						</div>
+					</div>
+
+				}
+
+			</section>
+		</div>
+	</main>
+</body>
+</html>

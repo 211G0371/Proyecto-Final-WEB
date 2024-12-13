@@ -1,0 +1,93 @@
+html, body {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    background-color: white;
+    font-family: "AnebaMedium", sans-serif;
+    overflow-x: hidden;
+    border-color: 2px solid #d5a940;
+    }
+
+    @font-face {
+        font-family: "AnebaMedium";
+        src: url("estilos/font/Borutta - Aneba Medium.otf") format("opentype");
+    }
+
+    header {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        height: 15%;
+        width: 100%;
+        background-color: black;
+        padding: 0 10px;
+        box-sizing: border-box;
+        position: relative;
+        z-index: 1;
+        border-bottom: 5px solid #d5a940;
+    }
+
+
+    .LogoEquipo {
+        margin-top: 5%;
+        width: 10%;
+        height: auto;
+    }
+
+    header a{
+        font-size: 60px;
+        color: white;
+    }
+
+
+    .ContenedorFormulario {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100%; /* Ajusta según el contenedor */
+        width: 100%; /* Ajusta según el contenedor */
+        background-color: #f9f9f9;
+        padding: 20px;
+        box-sizing: border-box;
+    }
+    
+    .FormularioJugador {
+        display: flex;
+        flex-direction: column;
+        gap: 15px;
+        width: 300px; /* Ancho del formulario */
+        padding: 20px;
+        background-color: #ffffff;
+        border: 1px solid #d5a940;
+        border-radius: 10px;
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    }
+    
+    .FormularioJugador label {
+        font-size: 16px;
+        color: #333;
+    }
+    
+    .FormularioJugador input {
+        padding: 10px;
+        font-size: 14px;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+        width: 100%;
+    }
+    
+    .FormularioJugador button {
+        padding: 10px;
+        font-size: 16px;
+        background-color: #d5a940;
+        color: white;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+    }
+    
+    .FormularioJugador button:hover {
+        background-color: #b89138;
+    }
+    

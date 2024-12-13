@@ -1,0 +1,103 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+}
+
+@{
+    ViewData["Title"] = "Index";
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>¿Qué haremos hoy?</title>
+    <style>
+        html, body {
+            height: 100%;
+            width: 100%;
+            margin: 0;
+            padding: 0;
+            background-color: white;
+            font-family: "AnebaMedium", sans-serif;
+            overflow-x: hidden;
+            border-color: 2px solid #d5a940;
+        }
+
+        header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            height: 15%;
+            width: 100%;
+            background-color: black;
+            padding: 0 10px;
+            box-sizing: border-box;
+            position: relative;
+            z-index: 1;
+            border-bottom: 5px solid #d5a940;
+        }
+
+        .LogoEquipo {
+            margin-top: 5%;
+            width: 10%;
+            height: auto;
+        }
+
+        header a {
+            font-size: 60px;
+            color: white;
+        }
+
+        h1 {
+            text-align: center;
+            margin-bottom: 20px;
+            color: #333;
+        }
+
+        .botones {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 20px;
+        }
+
+            .botones a {
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                text-align: center;
+                width: 150px;
+                height: 150px;
+                background-color: #d5a940;
+                color: white;
+                font-size: 16px;
+                font-weight: bold;
+                text-decoration: none;
+                border-radius: 10px;
+                transition: transform 0.2s ease, background-color 0.2s ease;
+            }
+
+                .botones a:hover {
+                    transform: scale(1.1);
+                    background-color: #b39536;
+                }
+    </style>
+</head>
+<body>
+    <header>
+        <img class="LogoEquipo" src="~/Imagenes/logo.png" alt="Logo Equipo">
+        <a>Administrador</a>
+    </header>
+    <h1>¿Qué haremos hoy?</h1>
+    <div class="botones">
+        <a href="~/Admin/Home/AgregarJugadordex">AGREGAR JUGADORES</a>
+        <a href="~/Admin/Home/Admjugadores">JUGADORES</a>
+        <a href="~/Admin/Home/AdmCambiarIndex">SLIDERS</a>
+        <a href="~/Admin/Home/AgregarImagenIndex">NOTICIAS</a>
+        
+
+    </div>
+</body>
+</html>
+
